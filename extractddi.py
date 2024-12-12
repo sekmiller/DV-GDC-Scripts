@@ -37,7 +37,7 @@ def parse_xml_from_api_to_json(api_url, json_file):
             keyword = keyword_elem.text
 
         # Initialize a list to store the extracted data
-        variables = []
+        variables = {}
         # Find all 'var' elements under 'dataDesc'
 
         # Extract variables
