@@ -54,8 +54,8 @@ def parse_xml_from_api_to_json(api_url, json_file):
                 # Add the variable data to the dictionary
                 print(name)
                 variables[name] = {
-                    "name": var_type if var_type else "unknown_type",
-                    "description": var_type if var_type else "unknown_description",
+                    "name": var_type if var_type else name,
+                    "description": var_type if var_type else name,
                     "nlSentences": ["Natural Language cues."],
                     "group": keyword if keyword else "HDV"
                 }
