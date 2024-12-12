@@ -81,7 +81,7 @@ def parse_xml_from_api_to_json(api_url, json_file):
 
         # Write the data to a JSON file
         with open(json_file, 'w', encoding='utf-8') as f:
-            json.dump(json_file, f, indent=4, ensure_ascii=False)
+            json.dump(output_data, f, indent=4, ensure_ascii=False)
 
         print(f"Data successfully written to {json_file}")
 
