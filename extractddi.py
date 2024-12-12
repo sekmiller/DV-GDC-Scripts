@@ -80,9 +80,8 @@ def parse_xml_from_api_to_json(api_url, json_file):
         }
 
         # Write the data to a JSON file
-        output_file = 'formatted_output.json'
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(output_data, f, indent=4, ensure_ascii=False)
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(json_file, f, indent=4, ensure_ascii=False)
 
         print(f"Data successfully written to {json_file}")
 
@@ -96,7 +95,7 @@ def parse_xml_from_api_to_json(api_url, json_file):
 
 # API URL and output JSON file
 api_url = 'https://dataverse.harvard.edu/api/datasets/export?exporter=ddi&persistentId=doi:10.7910/DVN/1U75SU'
-json_file = 'output.json'  # Replace with your desired JSON file path
+json_file = 'formatted_output.json'  # Replace with your desired JSON file path
 
 # Call the function
 parse_xml_from_api_to_json(api_url, json_file)
