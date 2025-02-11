@@ -1,0 +1,346 @@
+{
+    "inputFiles": {
+        "economicGrowth.csv": {
+            "entityType": "country",
+            "provenance": "doi:10.7910/DVN/74SGSS"
+        }
+    },
+    "variables": {
+        "id": {
+            "name": "id",
+            "description": "id",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "country": {
+            "name": "country",
+            "description": "country",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "countrycode": {
+            "name": "countrycode",
+            "description": "countrycode",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "oecd": {
+            "name": "oecd",
+            "description": "oecd",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "lsc2000": {
+            "name": "lsc2000",
+            "description": "lsc2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "yr_sch2000": {
+            "name": "yr_sch2000",
+            "description": "yr_sch2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "lsc2005": {
+            "name": "lsc2005",
+            "description": "lsc2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "yr_sch2005": {
+            "name": "yr_sch2005",
+            "description": "yr_sch2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "mdmh2000": {
+            "name": "mdmh2000",
+            "description": "mdmh2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "mdmh2005": {
+            "name": "mdmh2005",
+            "description": "mdmh2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "ease2010": {
+            "name": "ease2010",
+            "description": "ease2010",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "ease2015": {
+            "name": "ease2015",
+            "description": "ease2015",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "govtexp2000": {
+            "name": "govtexp2000",
+            "description": "govtexp2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "govtexp2005": {
+            "name": "govtexp2005",
+            "description": "govtexp2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "democ2000": {
+            "name": "democ2000",
+            "description": "democ2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "democ2005": {
+            "name": "democ2005",
+            "description": "democ2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "country_name": {
+            "name": "country_name",
+            "description": "country_name",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "property_right_2000": {
+            "name": "property_right_2000",
+            "description": "property_right_2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "property_right_2005": {
+            "name": "property_right_2005",
+            "description": "property_right_2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "gdp2000": {
+            "name": "gdp2000",
+            "description": "gdp2000",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "gdp2005": {
+            "name": "gdp2005",
+            "description": "gdp2005",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "top1": {
+            "name": "top1",
+            "description": "top1",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "next9": {
+            "name": "next9",
+            "description": "next9",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "middle40": {
+            "name": "middle40",
+            "description": "middle40",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "bottom50": {
+            "name": "bottom50",
+            "description": "bottom50",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_africa": {
+            "name": "cont_africa",
+            "description": "cont_africa",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_asia": {
+            "name": "cont_asia",
+            "description": "cont_asia",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_europe": {
+            "name": "cont_europe",
+            "description": "cont_europe",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_oceania": {
+            "name": "cont_oceania",
+            "description": "cont_oceania",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_north_america": {
+            "name": "cont_north_america",
+            "description": "cont_north_america",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "cont_south_america": {
+            "name": "cont_south_america",
+            "description": "cont_south_america",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "id_32": {
+            "name": "id_32",
+            "description": "id_32",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "country_33": {
+            "name": "country_33",
+            "description": "country_33",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "year": {
+            "name": "year",
+            "description": "year",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "top1_35": {
+            "name": "top1_35",
+            "description": "top1_35",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "next9_36": {
+            "name": "next9_36",
+            "description": "next9_36",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "middle40_37": {
+            "name": "middle40_37",
+            "description": "middle40_37",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "bottom50_38": {
+            "name": "bottom50_38",
+            "description": "bottom50_38",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "gdp_adult": {
+            "name": "gdp_adult",
+            "description": "gdp_adult",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "countrycode_40": {
+            "name": "countrycode_40",
+            "description": "countrycode_40",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        },
+        "oecd_41": {
+            "name": "oecd_41",
+            "description": "oecd_41",
+            "nlSentences": [
+                "Natural Language cues."
+            ],
+            "group": "Social Sciences"
+        }
+    },
+    "sources": {
+        "doi:10.7910/DVN/74SGSS": {
+            "url": "https://dataverse.harvard.edu",
+            "provenances": {
+                "doi:10.7910/DVN/74SGSS": "https://dataverse.harvard.edu"
+            }
+        }
+    }
+}
