@@ -1,0 +1,25 @@
+
+
+{
+    "inputFiles": {
+        "transformedCovidData.csv": {
+            "entityType": "country",
+            "provenance": "doi:10.7910/DVN/IBJS6X"
+        }
+    },
+    "variables": {
+  "covidDeaths": {
+      "name": "Covid Deaths",
+      "description": "State data for deaths attributed to COVID-19",
+      "group": "HDV Test Data/Demographics"
+      }
+    },
+    "sources": {
+        "doi:10.7910/DVN/1U75SU": {
+            "url": "https://dataverse.harvard.edu",
+            "provenances": {
+                "doi:10.7910/DVN/IBJS6X": "https://dataverse.harvard.edu"
+            }
+        }
+    }
+}
