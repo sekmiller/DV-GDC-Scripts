@@ -1,0 +1,3163 @@
+State,Date,covidDeaths
+Alabama,2020-02-01,0
+Alabama,2020-02-08,0
+Alabama,2020-02-15,0
+Alabama,2020-02-22,0
+Alabama,2020-02-29,0
+Alabama,2020-03-07,0
+Alabama,2020-03-14,0
+Alabama,2020-03-21,0
+Alabama,2020-03-28,4
+Alabama,2020-04-04,40
+Alabama,2020-04-11,48
+Alabama,2020-04-18,61
+Alabama,2020-04-25,56
+Alabama,2020-05-02,79
+Alabama,2020-05-09,102
+Alabama,2020-05-16,95
+Alabama,2020-05-23,64
+Alabama,2020-05-30,69
+Alabama,2020-06-06,71
+Alabama,2020-06-13,84
+Alabama,2020-06-20,65
+Alabama,2020-06-27,81
+Alabama,2020-07-04,88
+Alabama,2020-07-11,107
+Alabama,2020-07-18,172
+Alabama,2020-07-25,170
+Alabama,2020-08-01,147
+Alabama,2020-08-08,152
+Alabama,2020-08-15,141
+Alabama,2020-08-22,115
+Alabama,2020-08-29,141
+Alabama,2020-09-05,123
+Alabama,2020-09-12,75
+Alabama,2020-09-19,87
+Alabama,2020-09-26,64
+Alabama,2020-10-03,57
+Alabama,2020-10-10,106
+Alabama,2020-10-17,124
+Alabama,2020-10-24,78
+Alabama,2020-10-31,101
+Alabama,2020-11-07,115
+Alabama,2020-11-14,164
+Alabama,2020-11-21,211
+Alabama,2020-11-28,115
+Alabama,2020-12-05,305
+Alabama,2020-12-12,225
+Alabama,2020-12-19,287
+Alabama,2020-12-26,296
+Alabama,2021-01-02,187
+Alabama,2021-01-09,427
+Alabama,2021-01-16,820
+Alabama,2021-01-23,538
+Alabama,2021-01-30,909
+Alabama,2021-02-06,947
+Alabama,2021-02-13,729
+Alabama,2021-02-20,348
+Alabama,2021-02-27,340
+Alabama,2021-03-06,219
+Alabama,2021-03-13,178
+Alabama,2021-03-20,109
+Alabama,2021-03-27,90
+Alabama,2021-04-03,111
+Alaska,2020-02-01,0
+Alaska,2020-02-08,0
+Alaska,2020-02-15,0
+Alaska,2020-02-22,0
+Alaska,2020-02-29,0
+Alaska,2020-03-07,0
+Alaska,2020-03-14,0
+Alaska,2020-03-21,0
+Alaska,2020-03-28,2
+Alaska,2020-04-04,3
+Alaska,2020-04-11,3
+Alaska,2020-04-18,1
+Alaska,2020-04-25,0
+Alaska,2020-05-02,0
+Alaska,2020-05-09,1
+Alaska,2020-05-16,0
+Alaska,2020-05-23,0
+Alaska,2020-05-30,0
+Alaska,2020-06-06,0
+Alaska,2020-06-13,2
+Alaska,2020-06-20,0
+Alaska,2020-06-27,2
+Alaska,2020-07-04,2
+Alaska,2020-07-11,1
+Alaska,2020-07-18,1
+Alaska,2020-07-25,2
+Alaska,2020-08-01,4
+Alaska,2020-08-08,2
+Alaska,2020-08-15,2
+Alaska,2020-08-22,3
+Alaska,2020-08-29,6
+Alaska,2020-09-05,5
+Alaska,2020-09-12,2
+Alaska,2020-09-19,1
+Alaska,2020-09-26,7
+Alaska,2020-10-03,7
+Alaska,2020-10-10,2
+Alaska,2020-10-17,6
+Alaska,2020-10-24,1
+Alaska,2020-10-31,14
+Alaska,2020-11-07,4
+Alaska,2020-11-14,14
+Alaska,2020-11-21,4
+Alaska,2020-11-28,18
+Alaska,2020-12-05,21
+Alaska,2020-12-12,33
+Alaska,2020-12-19,8
+Alaska,2020-12-26,16
+Alaska,2021-01-02,15
+Alaska,2021-01-09,9
+Alaska,2021-01-16,5
+Alaska,2021-01-23,30
+Alaska,2021-01-30,3
+Alaska,2021-02-06,17
+Alaska,2021-02-13,3
+Alaska,2021-02-20,7
+Alaska,2021-02-27,1
+Alaska,2021-03-06,15
+Alaska,2021-03-13,1
+Alaska,2021-03-20,4
+Alaska,2021-03-27,3
+Alaska,2021-04-03,0
+Arizona,2020-02-01,0
+Arizona,2020-02-08,0
+Arizona,2020-02-15,0
+Arizona,2020-02-22,0
+Arizona,2020-02-29,0
+Arizona,2020-03-07,0
+Arizona,2020-03-14,0
+Arizona,2020-03-21,1
+Arizona,2020-03-28,14
+Arizona,2020-04-04,37
+Arizona,2020-04-11,65
+Arizona,2020-04-18,63
+Arizona,2020-04-25,93
+Arizona,2020-05-02,57
+Arizona,2020-05-09,202
+Arizona,2020-05-16,147
+Arizona,2020-05-23,122
+Arizona,2020-05-30,103
+Arizona,2020-06-06,139
+Arizona,2020-06-13,146
+Arizona,2020-06-20,157
+Arizona,2020-06-27,234
+Arizona,2020-07-04,237
+Arizona,2020-07-11,334
+Arizona,2020-07-18,579
+Arizona,2020-07-25,556
+Arizona,2020-08-01,461
+Arizona,2020-08-08,390
+Arizona,2020-08-15,355
+Arizona,2020-08-22,264
+Arizona,2020-08-29,251
+Arizona,2020-09-05,200
+Arizona,2020-09-12,108
+Arizona,2020-09-19,152
+Arizona,2020-09-26,155
+Arizona,2020-10-03,83
+Arizona,2020-10-10,54
+Arizona,2020-10-17,65
+Arizona,2020-10-24,45
+Arizona,2020-10-31,110
+Arizona,2020-11-07,168
+Arizona,2020-11-14,153
+Arizona,2020-11-21,157
+Arizona,2020-11-28,167
+Arizona,2020-12-05,301
+Arizona,2020-12-12,397
+Arizona,2020-12-19,615
+Arizona,2020-12-26,487
+Arizona,2021-01-02,637
+Arizona,2021-01-09,975
+Arizona,2021-01-16,1212
+Arizona,2021-01-23,922
+Arizona,2021-01-30,928
+Arizona,2021-02-06,913
+Arizona,2021-02-13,937
+Arizona,2021-02-20,532
+Arizona,2021-02-27,487
+Arizona,2021-03-06,356
+Arizona,2021-03-13,223
+Arizona,2021-03-20,187
+Arizona,2021-03-27,179
+Arizona,2021-04-03,79
+Arkansas,2020-02-01,0
+Arkansas,2020-02-08,0
+Arkansas,2020-02-15,0
+Arkansas,2020-02-22,0
+Arkansas,2020-02-29,0
+Arkansas,2020-03-07,0
+Arkansas,2020-03-14,0
+Arkansas,2020-03-21,0
+Arkansas,2020-03-28,5
+Arkansas,2020-04-04,9
+Arkansas,2020-04-11,11
+Arkansas,2020-04-18,13
+Arkansas,2020-04-25,10
+Arkansas,2020-05-02,24
+Arkansas,2020-05-09,16
+Arkansas,2020-05-16,10
+Arkansas,2020-05-23,17
+Arkansas,2020-05-30,18
+Arkansas,2020-06-06,21
+Arkansas,2020-06-13,23
+Arkansas,2020-06-20,47
+Arkansas,2020-06-27,35
+Arkansas,2020-07-04,27
+Arkansas,2020-07-11,33
+Arkansas,2020-07-18,38
+Arkansas,2020-07-25,42
+Arkansas,2020-08-01,59
+Arkansas,2020-08-08,77
+Arkansas,2020-08-15,65
+Arkansas,2020-08-22,74
+Arkansas,2020-08-29,98
+Arkansas,2020-09-05,110
+Arkansas,2020-09-12,87
+Arkansas,2020-09-19,212
+Arkansas,2020-09-26,104
+Arkansas,2020-10-03,122
+Arkansas,2020-10-10,145
+Arkansas,2020-10-17,132
+Arkansas,2020-10-24,113
+Arkansas,2020-10-31,128
+Arkansas,2020-11-07,143
+Arkansas,2020-11-14,91
+Arkansas,2020-11-21,178
+Arkansas,2020-11-28,112
+Arkansas,2020-12-05,171
+Arkansas,2020-12-12,291
+Arkansas,2020-12-19,280
+Arkansas,2020-12-26,250
+Arkansas,2021-01-02,288
+Arkansas,2021-01-09,281
+Arkansas,2021-01-16,283
+Arkansas,2021-01-23,270
+Arkansas,2021-01-30,275
+Arkansas,2021-02-06,223
+Arkansas,2021-02-13,191
+Arkansas,2021-02-20,96
+Arkansas,2021-02-27,69
+Arkansas,2021-03-06,-120
+Arkansas,2021-03-13,158
+Arkansas,2021-03-20,78
+Arkansas,2021-03-27,57
+Arkansas,2021-04-03,51
+California,2020-02-01,0
+California,2020-02-08,0
+California,2020-02-15,0
+California,2020-02-22,0
+California,2020-02-29,0
+California,2020-03-07,1
+California,2020-03-14,2
+California,2020-03-21,22
+California,2020-03-28,85
+California,2020-04-04,179
+California,2020-04-11,315
+California,2020-04-18,536
+California,2020-04-25,549
+California,2020-05-02,491
+California,2020-05-09,507
+California,2020-05-16,521
+California,2020-05-23,529
+California,2020-05-30,407
+California,2020-06-06,463
+California,2020-06-13,469
+California,2020-06-20,418
+California,2020-06-27,405
+California,2020-07-04,435
+California,2020-07-11,693
+California,2020-07-18,675
+California,2020-07-25,706
+California,2020-08-01,937
+California,2020-08-08,962
+California,2020-08-15,911
+California,2020-08-22,915
+California,2020-08-29,774
+California,2020-09-05,802
+California,2020-09-12,622
+California,2020-09-19,691
+California,2020-09-26,563
+California,2020-10-03,535
+California,2020-10-10,449
+California,2020-10-17,389
+California,2020-10-24,385
+California,2020-10-31,317
+California,2020-11-07,301
+California,2020-11-14,294
+California,2020-11-21,455
+California,2020-11-28,422
+California,2020-12-05,751
+California,2020-12-12,1094
+California,2020-12-19,1622
+California,2020-12-26,1626
+California,2021-01-02,2326
+California,2021-01-09,3156
+California,2021-01-16,3701
+California,2021-01-23,3438
+California,2021-01-30,3856
+California,2021-02-06,3289
+California,2021-02-13,2883
+California,2021-02-20,2246
+California,2021-02-27,2834
+California,2021-03-06,2180
+California,2021-03-13,2147
+California,2021-03-20,1049
+California,2021-03-27,1465
+California,2021-04-03,859
+Colorado,2020-02-01,0
+Colorado,2020-02-08,0
+Colorado,2020-02-15,0
+Colorado,2020-02-22,0
+Colorado,2020-02-29,0
+Colorado,2020-03-07,0
+Colorado,2020-03-14,2
+Colorado,2020-03-21,4
+Colorado,2020-03-28,38
+Colorado,2020-04-04,82
+Colorado,2020-04-11,148
+Colorado,2020-04-18,137
+Colorado,2020-04-25,273
+Colorado,2020-05-02,148
+Colorado,2020-05-09,135
+Colorado,2020-05-16,225
+Colorado,2020-05-23,135
+Colorado,2020-05-30,116
+Colorado,2020-06-06,84
+Colorado,2020-06-13,70
+Colorado,2020-06-20,50
+Colorado,2020-06-27,27
+Colorado,2020-07-04,27
+Colorado,2020-07-11,24
+Colorado,2020-07-18,27
+Colorado,2020-07-25,42
+Colorado,2020-08-01,50
+Colorado,2020-08-08,13
+Colorado,2020-08-15,39
+Colorado,2020-08-22,22
+Colorado,2020-08-29,24
+Colorado,2020-09-05,29
+Colorado,2020-09-12,17
+Colorado,2020-09-19,25
+Colorado,2020-09-26,27
+Colorado,2020-10-03,20
+Colorado,2020-10-10,52
+Colorado,2020-10-17,64
+Colorado,2020-10-24,42
+Colorado,2020-10-31,67
+Colorado,2020-11-07,104
+Colorado,2020-11-14,136
+Colorado,2020-11-21,262
+Colorado,2020-11-28,196
+Colorado,2020-12-05,374
+Colorado,2020-12-12,514
+Colorado,2020-12-19,468
+Colorado,2020-12-26,253
+Colorado,2021-01-02,320
+Colorado,2021-01-09,278
+Colorado,2021-01-16,173
+Colorado,2021-01-23,119
+Colorado,2021-01-30,138
+Colorado,2021-02-06,102
+Colorado,2021-02-13,92
+Colorado,2021-02-20,73
+Colorado,2021-02-27,58
+Colorado,2021-03-06,41
+Colorado,2021-03-13,50
+Colorado,2021-03-20,32
+Colorado,2021-03-27,21
+Colorado,2021-04-03,35
+Connecticut,2020-02-01,0
+Connecticut,2020-02-08,0
+Connecticut,2020-02-15,0
+Connecticut,2020-02-22,0
+Connecticut,2020-02-29,0
+Connecticut,2020-03-07,0
+Connecticut,2020-03-14,0
+Connecticut,2020-03-21,4
+Connecticut,2020-03-28,29
+Connecticut,2020-04-04,132
+Connecticut,2020-04-11,329
+Connecticut,2020-04-18,592
+Connecticut,2020-04-25,779
+Connecticut,2020-05-02,571
+Connecticut,2020-05-09,496
+Connecticut,2020-05-16,407
+Connecticut,2020-05-23,336
+Connecticut,2020-05-30,237
+Connecticut,2020-06-06,143
+Connecticut,2020-06-13,131
+Connecticut,2020-06-20,65
+Connecticut,2020-06-27,60
+Connecticut,2020-07-04,24
+Connecticut,2020-07-11,13
+Connecticut,2020-07-18,48
+Connecticut,2020-07-25,17
+Connecticut,2020-08-01,19
+Connecticut,2020-08-08,9
+Connecticut,2020-08-15,12
+Connecticut,2020-08-22,7
+Connecticut,2020-08-29,5
+Connecticut,2020-09-05,3
+Connecticut,2020-09-12,12
+Connecticut,2020-09-19,12
+Connecticut,2020-09-26,9
+Connecticut,2020-10-03,12
+Connecticut,2020-10-10,17
+Connecticut,2020-10-17,12
+Connecticut,2020-10-24,35
+Connecticut,2020-10-31,39
+Connecticut,2020-11-07,55
+Connecticut,2020-11-14,66
+Connecticut,2020-11-21,91
+Connecticut,2020-11-28,133
+Connecticut,2020-12-05,185
+Connecticut,2020-12-12,217
+Connecticut,2020-12-19,218
+Connecticut,2020-12-26,210
+Connecticut,2021-01-02,308
+Connecticut,2021-01-09,225
+Connecticut,2021-01-16,270
+Connecticut,2021-01-23,225
+Connecticut,2021-01-30,227
+Connecticut,2021-02-06,168
+Connecticut,2021-02-13,167
+Connecticut,2021-02-20,142
+Connecticut,2021-02-27,99
+Connecticut,2021-03-06,82
+Connecticut,2021-03-13,61
+Connecticut,2021-03-20,67
+Connecticut,2021-03-27,33
+Connecticut,2021-04-03,39
+Delaware,2020-02-01,0
+Delaware,2020-02-08,0
+Delaware,2020-02-15,0
+Delaware,2020-02-22,0
+Delaware,2020-02-29,0
+Delaware,2020-03-07,0
+Delaware,2020-03-14,0
+Delaware,2020-03-21,0
+Delaware,2020-03-28,0
+Delaware,2020-04-04,17
+Delaware,2020-04-11,27
+Delaware,2020-04-18,43
+Delaware,2020-04-25,70
+Delaware,2020-05-02,79
+Delaware,2020-05-09,69
+Delaware,2020-05-16,83
+Delaware,2020-05-23,53
+Delaware,2020-05-30,53
+Delaware,2020-06-06,27
+Delaware,2020-06-13,19
+Delaware,2020-06-20,12
+Delaware,2020-06-27,10
+Delaware,2020-07-04,7
+Delaware,2020-07-11,7
+Delaware,2020-07-18,7
+Delaware,2020-07-25,11
+Delaware,2020-08-01,6
+Delaware,2020-08-08,6
+Delaware,2020-08-15,2
+Delaware,2020-08-22,5
+Delaware,2020-08-29,2
+Delaware,2020-09-05,8
+Delaware,2020-09-12,7
+Delaware,2020-09-19,5
+Delaware,2020-09-26,11
+Delaware,2020-10-03,14
+Delaware,2020-10-10,11
+Delaware,2020-10-17,15
+Delaware,2020-10-24,23
+Delaware,2020-10-31,26
+Delaware,2020-11-07,17
+Delaware,2020-11-14,14
+Delaware,2020-11-21,20
+Delaware,2020-11-28,27
+Delaware,2020-12-05,29
+Delaware,2020-12-12,45
+Delaware,2020-12-19,65
+Delaware,2020-12-26,65
+Delaware,2021-01-02,55
+Delaware,2021-01-09,56
+Delaware,2021-01-16,60
+Delaware,2021-01-23,66
+Delaware,2021-01-30,47
+Delaware,2021-02-06,28
+Delaware,2021-02-13,27
+Delaware,2021-02-20,10
+Delaware,2021-02-27,52
+Delaware,2021-03-06,46
+Delaware,2021-03-13,40
+Delaware,2021-03-20,22
+Delaware,2021-03-27,18
+Delaware,2021-04-03,21
+District of Columbia,2020-02-01,0
+District of Columbia,2020-02-08,0
+District of Columbia,2020-02-15,0
+District of Columbia,2020-02-22,0
+District of Columbia,2020-02-29,0
+District of Columbia,2020-03-07,0
+District of Columbia,2020-03-14,0
+District of Columbia,2020-03-21,0
+District of Columbia,2020-03-28,4
+District of Columbia,2020-04-04,17
+District of Columbia,2020-04-11,26
+District of Columbia,2020-04-18,44
+District of Columbia,2020-04-25,74
+District of Columbia,2020-05-02,75
+District of Columbia,2020-05-09,71
+District of Columbia,2020-05-16,64
+District of Columbia,2020-05-23,52
+District of Columbia,2020-05-30,35
+District of Columbia,2020-06-06,21
+District of Columbia,2020-06-13,28
+District of Columbia,2020-06-20,20
+District of Columbia,2020-06-27,17
+District of Columbia,2020-07-04,9
+District of Columbia,2020-07-11,11
+District of Columbia,2020-07-18,10
+District of Columbia,2020-07-25,3
+District of Columbia,2020-08-01,4
+District of Columbia,2020-08-08,5
+District of Columbia,2020-08-15,7
+District of Columbia,2020-08-22,7
+District of Columbia,2020-08-29,1
+District of Columbia,2020-09-05,6
+District of Columbia,2020-09-12,5
+District of Columbia,2020-09-19,3
+District of Columbia,2020-09-26,5
+District of Columbia,2020-10-03,5
+District of Columbia,2020-10-10,7
+District of Columbia,2020-10-17,5
+District of Columbia,2020-10-24,1
+District of Columbia,2020-10-31,4
+District of Columbia,2020-11-07,8
+District of Columbia,2020-11-14,4
+District of Columbia,2020-11-21,12
+District of Columbia,2020-11-28,8
+District of Columbia,2020-12-05,17
+District of Columbia,2020-12-12,18
+District of Columbia,2020-12-19,17
+District of Columbia,2020-12-26,32
+District of Columbia,2021-01-02,30
+District of Columbia,2021-01-09,21
+District of Columbia,2021-01-16,34
+District of Columbia,2021-01-23,23
+District of Columbia,2021-01-30,39
+District of Columbia,2021-02-06,38
+District of Columbia,2021-02-13,32
+District of Columbia,2021-02-20,15
+District of Columbia,2021-02-27,16
+District of Columbia,2021-03-06,20
+District of Columbia,2021-03-13,10
+District of Columbia,2021-03-20,9
+District of Columbia,2021-03-27,7
+District of Columbia,2021-04-03,14
+Florida,2020-02-01,0
+Florida,2020-02-08,0
+Florida,2020-02-15,0
+Florida,2020-02-22,0
+Florida,2020-02-29,0
+Florida,2020-03-07,0
+Florida,2020-03-14,2
+Florida,2020-03-21,11
+Florida,2020-03-28,41
+Florida,2020-04-04,141
+Florida,2020-04-11,243
+Florida,2020-04-18,310
+Florida,2020-04-25,307
+Florida,2020-05-02,309
+Florida,2020-05-09,351
+Florida,2020-05-16,249
+Florida,2020-05-23,269
+Florida,2020-05-30,214
+Florida,2020-06-06,241
+Florida,2020-06-13,237
+Florida,2020-06-20,219
+Florida,2020-06-27,246
+Florida,2020-07-04,312
+Florida,2020-07-11,495
+Florida,2020-07-18,698
+Florida,2020-07-25,882
+Florida,2020-08-01,1245
+Florida,2020-08-08,1087
+Florida,2020-08-15,1236
+Florida,2020-08-22,929
+Florida,2020-08-29,831
+Florida,2020-09-05,706
+Florida,2020-09-12,789
+Florida,2020-09-19,687
+Florida,2020-09-26,735
+Florida,2020-10-03,606
+Florida,2020-10-10,558
+Florida,2020-10-17,731
+Florida,2020-10-24,500
+Florida,2020-10-31,344
+Florida,2020-11-07,339
+Florida,2020-11-14,389
+Florida,2020-11-21,441
+Florida,2020-11-28,512
+Florida,2020-12-05,642
+Florida,2020-12-12,701
+Florida,2020-12-19,688
+Florida,2020-12-26,662
+Florida,2021-01-02,755
+Florida,2021-01-09,914
+Florida,2021-01-16,1200
+Florida,2021-01-23,1160
+Florida,2021-01-30,1196
+Florida,2021-02-06,1239
+Florida,2021-02-13,1084
+Florida,2021-02-20,1130
+Florida,2021-02-27,921
+Florida,2021-03-06,886
+Florida,2021-03-13,605
+Florida,2021-03-20,488
+Florida,2021-03-27,429
+Florida,2021-04-03,510
+Georgia,2020-02-01,0
+Georgia,2020-02-08,0
+Georgia,2020-02-15,0
+Georgia,2020-02-22,0
+Georgia,2020-02-29,0
+Georgia,2020-03-07,0
+Georgia,2020-03-14,1
+Georgia,2020-03-21,19
+Georgia,2020-03-28,49
+Georgia,2020-04-04,132
+Georgia,2020-04-11,228
+Georgia,2020-04-18,244
+Georgia,2020-04-25,234
+Georgia,2020-05-02,270
+Georgia,2020-05-09,226
+Georgia,2020-05-16,195
+Georgia,2020-05-23,224
+Georgia,2020-05-30,182
+Georgia,2020-06-06,174
+Georgia,2020-06-13,269
+Georgia,2020-06-20,195
+Georgia,2020-06-27,134
+Georgia,2020-07-04,81
+Georgia,2020-07-11,139
+Georgia,2020-07-18,173
+Georgia,2020-07-25,325
+Georgia,2020-08-01,331
+Georgia,2020-08-08,361
+Georgia,2020-08-15,483
+Georgia,2020-08-22,423
+Georgia,2020-08-29,484
+Georgia,2020-09-05,401
+Georgia,2020-09-12,310
+Georgia,2020-09-19,312
+Georgia,2020-09-26,315
+Georgia,2020-10-03,219
+Georgia,2020-10-10,260
+Georgia,2020-10-17,214
+Georgia,2020-10-24,201
+Georgia,2020-10-31,171
+Georgia,2020-11-07,668
+Georgia,2020-11-14,309
+Georgia,2020-11-21,223
+Georgia,2020-11-28,245
+Georgia,2020-12-05,369
+Georgia,2020-12-12,282
+Georgia,2020-12-19,306
+Georgia,2020-12-26,304
+Georgia,2021-01-02,275
+Georgia,2021-01-09,497
+Georgia,2021-01-16,834
+Georgia,2021-01-23,955
+Georgia,2021-01-30,950
+Georgia,2021-02-06,894
+Georgia,2021-02-13,760
+Georgia,2021-02-20,892
+Georgia,2021-02-27,552
+Georgia,2021-03-06,611
+Georgia,2021-03-13,311
+Georgia,2021-03-20,314
+Georgia,2021-03-27,396
+Georgia,2021-04-03,284
+Hawaii,2020-02-01,0
+Hawaii,2020-02-08,0
+Hawaii,2020-02-15,0
+Hawaii,2020-02-22,0
+Hawaii,2020-02-29,0
+Hawaii,2020-03-07,0
+Hawaii,2020-03-14,0
+Hawaii,2020-03-21,0
+Hawaii,2020-03-28,0
+Hawaii,2020-04-04,3
+Hawaii,2020-04-11,5
+Hawaii,2020-04-18,1
+Hawaii,2020-04-25,4
+Hawaii,2020-05-02,3
+Hawaii,2020-05-09,1
+Hawaii,2020-05-16,0
+Hawaii,2020-05-23,0
+Hawaii,2020-05-30,0
+Hawaii,2020-06-06,0
+Hawaii,2020-06-13,0
+Hawaii,2020-06-20,0
+Hawaii,2020-06-27,1
+Hawaii,2020-07-04,1
+Hawaii,2020-07-11,0
+Hawaii,2020-07-18,5
+Hawaii,2020-07-25,2
+Hawaii,2020-08-01,0
+Hawaii,2020-08-08,5
+Hawaii,2020-08-15,9
+Hawaii,2020-08-22,7
+Hawaii,2020-08-29,15
+Hawaii,2020-09-05,22
+Hawaii,2020-09-12,13
+Hawaii,2020-09-19,23
+Hawaii,2020-09-26,11
+Hawaii,2020-10-03,22
+Hawaii,2020-10-10,15
+Hawaii,2020-10-17,18
+Hawaii,2020-10-24,26
+Hawaii,2020-10-31,7
+Hawaii,2020-11-07,1
+Hawaii,2020-11-14,2
+Hawaii,2020-11-21,9
+Hawaii,2020-11-28,9
+Hawaii,2020-12-05,21
+Hawaii,2020-12-12,10
+Hawaii,2020-12-19,10
+Hawaii,2020-12-26,4
+Hawaii,2021-01-02,4
+Hawaii,2021-01-09,19
+Hawaii,2021-01-16,12
+Hawaii,2021-01-23,16
+Hawaii,2021-01-30,71
+Hawaii,2021-02-06,9
+Hawaii,2021-02-13,9
+Hawaii,2021-02-20,5
+Hawaii,2021-02-27,9
+Hawaii,2021-03-06,5
+Hawaii,2021-03-13,6
+Hawaii,2021-03-20,3
+Hawaii,2021-03-27,9
+Hawaii,2021-04-03,5
+Idaho,2020-02-01,0
+Idaho,2020-02-08,0
+Idaho,2020-02-15,0
+Idaho,2020-02-22,0
+Idaho,2020-02-29,0
+Idaho,2020-03-07,0
+Idaho,2020-03-14,0
+Idaho,2020-03-21,0
+Idaho,2020-03-28,4
+Idaho,2020-04-04,6
+Idaho,2020-04-11,15
+Idaho,2020-04-18,18
+Idaho,2020-04-25,13
+Idaho,2020-05-02,8
+Idaho,2020-05-09,3
+Idaho,2020-05-16,6
+Idaho,2020-05-23,6
+Idaho,2020-05-30,3
+Idaho,2020-06-06,1
+Idaho,2020-06-13,4
+Idaho,2020-06-20,2
+Idaho,2020-06-27,2
+Idaho,2020-07-04,2
+Idaho,2020-07-11,9
+Idaho,2020-07-18,17
+Idaho,2020-07-25,27
+Idaho,2020-08-01,51
+Idaho,2020-08-08,38
+Idaho,2020-08-15,34
+Idaho,2020-08-22,37
+Idaho,2020-08-29,52
+Idaho,2020-09-05,26
+Idaho,2020-09-12,31
+Idaho,2020-09-19,26
+Idaho,2020-09-26,19
+Idaho,2020-10-03,20
+Idaho,2020-10-10,27
+Idaho,2020-10-17,22
+Idaho,2020-10-24,43
+Idaho,2020-10-31,57
+Idaho,2020-11-07,54
+Idaho,2020-11-14,76
+Idaho,2020-11-21,88
+Idaho,2020-11-28,66
+Idaho,2020-12-05,119
+Idaho,2020-12-12,137
+Idaho,2020-12-19,106
+Idaho,2020-12-26,79
+Idaho,2021-01-02,94
+Idaho,2021-01-09,80
+Idaho,2021-01-16,77
+Idaho,2021-01-23,63
+Idaho,2021-01-30,57
+Idaho,2021-02-06,42
+Idaho,2021-02-13,36
+Idaho,2021-02-20,23
+Idaho,2021-02-27,34
+Idaho,2021-03-06,19
+Idaho,2021-03-13,31
+Idaho,2021-03-20,31
+Idaho,2021-03-27,13
+Idaho,2021-04-03,12
+Illinois,2020-02-01,0
+Illinois,2020-02-08,0
+Illinois,2020-02-15,0
+Illinois,2020-02-22,0
+Illinois,2020-02-29,0
+Illinois,2020-03-07,0
+Illinois,2020-03-14,0
+Illinois,2020-03-21,6
+Illinois,2020-03-28,41
+Illinois,2020-04-04,197
+Illinois,2020-04-11,433
+Illinois,2020-04-18,582
+Illinois,2020-04-25,616
+Illinois,2020-05-02,684
+Illinois,2020-05-09,790
+Illinois,2020-05-16,780
+Illinois,2020-05-23,661
+Illinois,2020-05-30,540
+Illinois,2020-06-06,534
+Illinois,2020-06-13,425
+Illinois,2020-06-20,336
+Illinois,2020-06-27,248
+Illinois,2020-07-04,141
+Illinois,2020-07-11,355
+Illinois,2020-07-18,114
+Illinois,2020-07-25,106
+Illinois,2020-08-01,111
+Illinois,2020-08-08,140
+Illinois,2020-08-15,97
+Illinois,2020-08-22,146
+Illinois,2020-08-29,134
+Illinois,2020-09-05,168
+Illinois,2020-09-12,142
+Illinois,2020-09-19,145
+Illinois,2020-09-26,160
+Illinois,2020-10-03,191
+Illinois,2020-10-10,198
+Illinois,2020-10-17,231
+Illinois,2020-10-24,299
+Illinois,2020-10-31,289
+Illinois,2020-11-07,448
+Illinois,2020-11-14,600
+Illinois,2020-11-21,864
+Illinois,2020-11-28,886
+Illinois,2020-12-05,1179
+Illinois,2020-12-12,1215
+Illinois,2020-12-19,1094
+Illinois,2020-12-26,898
+Illinois,2021-01-02,993
+Illinois,2021-01-09,993
+Illinois,2021-01-16,810
+Illinois,2021-01-23,625
+Illinois,2021-01-30,568
+Illinois,2021-02-06,463
+Illinois,2021-02-13,411
+Illinois,2021-02-20,339
+Illinois,2021-02-27,284
+Illinois,2021-03-06,293
+Illinois,2021-03-13,186
+Illinois,2021-03-20,140
+Illinois,2021-03-27,169
+Illinois,2021-04-03,137
+Indiana,2020-02-01,0
+Indiana,2020-02-08,0
+Indiana,2020-02-15,0
+Indiana,2020-02-22,0
+Indiana,2020-02-29,0
+Indiana,2020-03-07,0
+Indiana,2020-03-14,0
+Indiana,2020-03-21,13
+Indiana,2020-03-28,45
+Indiana,2020-04-04,155
+Indiana,2020-04-11,206
+Indiana,2020-04-18,246
+Indiana,2020-04-25,293
+Indiana,2020-05-02,284
+Indiana,2020-05-09,253
+Indiana,2020-05-16,250
+Indiana,2020-05-23,215
+Indiana,2020-05-30,136
+Indiana,2020-06-06,137
+Indiana,2020-06-13,118
+Indiana,2020-06-20,114
+Indiana,2020-06-27,76
+Indiana,2020-07-04,66
+Indiana,2020-07-11,74
+Indiana,2020-07-18,67
+Indiana,2020-07-25,77
+Indiana,2020-08-01,74
+Indiana,2020-08-08,75
+Indiana,2020-08-15,94
+Indiana,2020-08-22,96
+Indiana,2020-08-29,77
+Indiana,2020-09-05,70
+Indiana,2020-09-12,81
+Indiana,2020-09-19,89
+Indiana,2020-09-26,100
+Indiana,2020-10-03,124
+Indiana,2020-10-10,126
+Indiana,2020-10-17,194
+Indiana,2020-10-24,209
+Indiana,2020-10-31,270
+Indiana,2020-11-07,324
+Indiana,2020-11-14,363
+Indiana,2020-11-21,506
+Indiana,2020-11-28,573
+Indiana,2020-12-05,629
+Indiana,2020-12-12,701
+Indiana,2020-12-19,694
+Indiana,2020-12-26,610
+Indiana,2021-01-02,658
+Indiana,2021-01-09,527
+Indiana,2021-01-16,445
+Indiana,2021-01-23,416
+Indiana,2021-01-30,312
+Indiana,2021-02-06,490
+Indiana,2021-02-13,397
+Indiana,2021-02-20,187
+Indiana,2021-02-27,220
+Indiana,2021-03-06,170
+Indiana,2021-03-13,120
+Indiana,2021-03-20,80
+Indiana,2021-03-27,85
+Indiana,2021-04-03,63
+Iowa,2020-02-01,0
+Iowa,2020-02-08,0
+Iowa,2020-02-15,0
+Iowa,2020-02-22,0
+Iowa,2020-02-29,0
+Iowa,2020-03-07,0
+Iowa,2020-03-14,0
+Iowa,2020-03-21,0
+Iowa,2020-03-28,3
+Iowa,2020-04-04,11
+Iowa,2020-04-11,20
+Iowa,2020-04-18,40
+Iowa,2020-04-25,38
+Iowa,2020-05-02,63
+Iowa,2020-05-09,77
+Iowa,2020-05-16,94
+Iowa,2020-05-23,100
+Iowa,2020-05-30,85
+Iowa,2020-06-06,68
+Iowa,2020-06-13,51
+Iowa,2020-06-20,31
+Iowa,2020-06-27,23
+Iowa,2020-07-04,17
+Iowa,2020-07-11,27
+Iowa,2020-07-18,41
+Iowa,2020-07-25,37
+Iowa,2020-08-01,48
+Iowa,2020-08-08,53
+Iowa,2020-08-15,48
+Iowa,2020-08-22,58
+Iowa,2020-08-29,67
+Iowa,2020-09-05,64
+Iowa,2020-09-12,54
+Iowa,2020-09-19,47
+Iowa,2020-09-26,49
+Iowa,2020-10-03,67
+Iowa,2020-10-10,78
+Iowa,2020-10-17,69
+Iowa,2020-10-24,106
+Iowa,2020-10-31,82
+Iowa,2020-11-07,126
+Iowa,2020-11-14,143
+Iowa,2020-11-21,206
+Iowa,2020-11-28,184
+Iowa,2020-12-05,307
+Iowa,2020-12-12,526
+Iowa,2020-12-19,324
+Iowa,2020-12-26,211
+Iowa,2021-01-02,203
+Iowa,2021-01-09,181
+Iowa,2021-01-16,194
+Iowa,2021-01-23,165
+Iowa,2021-01-30,165
+Iowa,2021-02-06,457
+Iowa,2021-02-13,128
+Iowa,2021-02-20,100
+Iowa,2021-02-27,134
+Iowa,2021-03-06,82
+Iowa,2021-03-13,81
+Iowa,2021-03-20,41
+Iowa,2021-03-27,44
+Iowa,2021-04-03,104
+Kansas,2020-02-01,0
+Kansas,2020-02-08,0
+Kansas,2020-02-15,0
+Kansas,2020-02-22,0
+Kansas,2020-02-29,0
+Kansas,2020-03-07,0
+Kansas,2020-03-14,1
+Kansas,2020-03-21,1
+Kansas,2020-03-28,3
+Kansas,2020-04-04,13
+Kansas,2020-04-11,34
+Kansas,2020-04-18,34
+Kansas,2020-04-25,34
+Kansas,2020-05-02,22
+Kansas,2020-05-09,32
+Kansas,2020-05-16,21
+Kansas,2020-05-23,10
+Kansas,2020-05-30,10
+Kansas,2020-06-06,18
+Kansas,2020-06-13,12
+Kansas,2020-06-20,11
+Kansas,2020-06-27,12
+Kansas,2020-07-04,15
+Kansas,2020-07-11,12
+Kansas,2020-07-18,13
+Kansas,2020-07-25,21
+Kansas,2020-08-01,29
+Kansas,2020-08-08,22
+Kansas,2020-08-15,26
+Kansas,2020-08-22,20
+Kansas,2020-08-29,23
+Kansas,2020-09-05,32
+Kansas,2020-09-12,45
+Kansas,2020-09-19,70
+Kansas,2020-09-26,39
+Kansas,2020-10-03,63
+Kansas,2020-10-10,75
+Kansas,2020-10-17,86
+Kansas,2020-10-24,116
+Kansas,2020-10-31,54
+Kansas,2020-11-07,137
+Kansas,2020-11-14,90
+Kansas,2020-11-21,154
+Kansas,2020-11-28,119
+Kansas,2020-12-05,257
+Kansas,2020-12-12,286
+Kansas,2020-12-19,269
+Kansas,2020-12-26,162
+Kansas,2021-01-02,369
+Kansas,2021-01-09,269
+Kansas,2021-01-16,348
+Kansas,2021-01-23,98
+Kansas,2021-01-30,180
+Kansas,2021-02-06,308
+Kansas,2021-02-13,254
+Kansas,2021-02-20,244
+Kansas,2021-02-27,119
+Kansas,2021-03-06,76
+Kansas,2021-03-13,10
+Kansas,2021-03-20,20
+Kansas,2021-03-27,50
+Kansas,2021-04-03,41
+Kentucky,2020-02-01,0
+Kentucky,2020-02-08,0
+Kentucky,2020-02-15,0
+Kentucky,2020-02-22,0
+Kentucky,2020-02-29,0
+Kentucky,2020-03-07,0
+Kentucky,2020-03-14,0
+Kentucky,2020-03-21,3
+Kentucky,2020-03-28,6
+Kentucky,2020-04-04,31
+Kentucky,2020-04-11,50
+Kentucky,2020-04-18,54
+Kentucky,2020-04-25,61
+Kentucky,2020-05-02,43
+Kentucky,2020-05-09,56
+Kentucky,2020-05-16,30
+Kentucky,2020-05-23,57
+Kentucky,2020-05-30,40
+Kentucky,2020-06-06,39
+Kentucky,2020-06-13,29
+Kentucky,2020-06-20,25
+Kentucky,2020-06-27,30
+Kentucky,2020-07-04,31
+Kentucky,2020-07-11,37
+Kentucky,2020-07-18,45
+Kentucky,2020-07-25,29
+Kentucky,2020-08-01,44
+Kentucky,2020-08-08,32
+Kentucky,2020-08-15,38
+Kentucky,2020-08-22,62
+Kentucky,2020-08-29,49
+Kentucky,2020-09-05,72
+Kentucky,2020-09-12,64
+Kentucky,2020-09-19,51
+Kentucky,2020-09-26,46
+Kentucky,2020-10-03,51
+Kentucky,2020-10-10,44
+Kentucky,2020-10-17,63
+Kentucky,2020-10-24,92
+Kentucky,2020-10-31,81
+Kentucky,2020-11-07,76
+Kentucky,2020-11-14,97
+Kentucky,2020-11-21,125
+Kentucky,2020-11-28,102
+Kentucky,2020-12-05,177
+Kentucky,2020-12-12,130
+Kentucky,2020-12-19,179
+Kentucky,2020-12-26,163
+Kentucky,2021-01-02,164
+Kentucky,2021-01-09,178
+Kentucky,2021-01-16,217
+Kentucky,2021-01-23,293
+Kentucky,2021-01-30,328
+Kentucky,2021-02-06,306
+Kentucky,2021-02-13,252
+Kentucky,2021-02-20,154
+Kentucky,2021-02-27,199
+Kentucky,2021-03-06,181
+Kentucky,2021-03-13,160
+Kentucky,2021-03-20,754
+Kentucky,2021-03-27,303
+Kentucky,2021-04-03,126
+Louisiana,2020-02-01,0
+Louisiana,2020-02-08,0
+Louisiana,2020-02-15,0
+Louisiana,2020-02-22,0
+Louisiana,2020-02-29,0
+Louisiana,2020-03-07,0
+Louisiana,2020-03-14,1
+Louisiana,2020-03-21,19
+Louisiana,2020-03-28,117
+Louisiana,2020-04-04,272
+Louisiana,2020-04-11,397
+Louisiana,2020-04-18,461
+Louisiana,2020-04-25,440
+Louisiana,2020-05-02,286
+Louisiana,2020-05-09,274
+Louisiana,2020-05-16,212
+Louisiana,2020-05-23,189
+Louisiana,2020-05-30,118
+Louisiana,2020-06-06,139
+Louisiana,2020-06-13,79
+Louisiana,2020-06-20,100
+Louisiana,2020-06-27,86
+Louisiana,2020-07-04,88
+Louisiana,2020-07-11,125
+Louisiana,2020-07-18,106
+Louisiana,2020-07-25,206
+Louisiana,2020-08-01,234
+Louisiana,2020-08-08,258
+Louisiana,2020-08-15,223
+Louisiana,2020-08-22,257
+Louisiana,2020-08-29,217
+Louisiana,2020-09-05,131
+Louisiana,2020-09-12,167
+Louisiana,2020-09-19,140
+Louisiana,2020-09-26,102
+Louisiana,2020-10-03,101
+Louisiana,2020-10-10,90
+Louisiana,2020-10-17,92
+Louisiana,2020-10-24,93
+Louisiana,2020-10-31,99
+Louisiana,2020-11-07,97
+Louisiana,2020-11-14,105
+Louisiana,2020-11-21,112
+Louisiana,2020-11-28,158
+Louisiana,2020-12-05,157
+Louisiana,2020-12-12,219
+Louisiana,2020-12-19,227
+Louisiana,2020-12-26,278
+Louisiana,2021-01-02,216
+Louisiana,2021-01-09,345
+Louisiana,2021-01-16,247
+Louisiana,2021-01-23,403
+Louisiana,2021-01-30,318
+Louisiana,2021-02-06,275
+Louisiana,2021-02-13,200
+Louisiana,2021-02-20,164
+Louisiana,2021-02-27,147
+Louisiana,2021-03-06,129
+Louisiana,2021-03-13,145
+Louisiana,2021-03-20,127
+Louisiana,2021-03-27,99
+Louisiana,2021-04-03,74
+Maine,2020-02-01,0
+Maine,2020-02-08,0
+Maine,2020-02-15,0
+Maine,2020-02-22,0
+Maine,2020-02-29,0
+Maine,2020-03-07,0
+Maine,2020-03-14,0
+Maine,2020-03-21,0
+Maine,2020-03-28,1
+Maine,2020-04-04,9
+Maine,2020-04-11,9
+Maine,2020-04-18,13
+Maine,2020-04-25,15
+Maine,2020-05-02,9
+Maine,2020-05-09,8
+Maine,2020-05-16,6
+Maine,2020-05-23,7
+Maine,2020-05-30,12
+Maine,2020-06-06,9
+Maine,2020-06-13,2
+Maine,2020-06-20,2
+Maine,2020-06-27,2
+Maine,2020-07-04,3
+Maine,2020-07-11,5
+Maine,2020-07-18,5
+Maine,2020-07-25,2
+Maine,2020-08-01,4
+Maine,2020-08-08,2
+Maine,2020-08-15,2
+Maine,2020-08-22,3
+Maine,2020-08-29,2
+Maine,2020-09-05,2
+Maine,2020-09-12,1
+Maine,2020-09-19,4
+Maine,2020-09-26,1
+Maine,2020-10-03,2
+Maine,2020-10-10,1
+Maine,2020-10-17,3
+Maine,2020-10-24,0
+Maine,2020-10-31,1
+Maine,2020-11-07,4
+Maine,2020-11-14,12
+Maine,2020-11-21,11
+Maine,2020-11-28,17
+Maine,2020-12-05,36
+Maine,2020-12-12,30
+Maine,2020-12-19,35
+Maine,2020-12-26,27
+Maine,2021-01-02,39
+Maine,2021-01-09,74
+Maine,2021-01-16,75
+Maine,2021-01-23,37
+Maine,2021-01-30,46
+Maine,2021-02-06,44
+Maine,2021-02-13,13
+Maine,2021-02-20,11
+Maine,2021-02-27,44
+Maine,2021-03-06,2
+Maine,2021-03-13,20
+Maine,2021-03-20,4
+Maine,2021-03-27,8
+Maine,2021-04-03,9
+Maryland,2020-02-01,0
+Maryland,2020-02-08,0
+Maryland,2020-02-15,0
+Maryland,2020-02-22,0
+Maryland,2020-02-29,0
+Maryland,2020-03-07,0
+Maryland,2020-03-14,0
+Maryland,2020-03-21,2
+Maryland,2020-03-28,3
+Maryland,2020-04-04,49
+Maryland,2020-04-11,152
+Maryland,2020-04-18,215
+Maryland,2020-04-25,454
+Maryland,2020-05-02,376
+Maryland,2020-05-09,363
+Maryland,2020-05-16,343
+Maryland,2020-05-23,286
+Maryland,2020-05-30,266
+Maryland,2020-06-06,231
+Maryland,2020-06-13,186
+Maryland,2020-06-20,126
+Maryland,2020-06-27,105
+Maryland,2020-07-04,79
+Maryland,2020-07-11,74
+Maryland,2020-07-18,58
+Maryland,2020-07-25,65
+Maryland,2020-08-01,73
+Maryland,2020-08-08,71
+Maryland,2020-08-15,59
+Maryland,2020-08-22,49
+Maryland,2020-08-29,61
+Maryland,2020-09-05,50
+Maryland,2020-09-12,40
+Maryland,2020-09-19,40
+Maryland,2020-09-26,49
+Maryland,2020-10-03,32
+Maryland,2020-10-10,38
+Maryland,2020-10-17,41
+Maryland,2020-10-24,55
+Maryland,2020-10-31,56
+Maryland,2020-11-07,54
+Maryland,2020-11-14,92
+Maryland,2020-11-21,122
+Maryland,2020-11-28,187
+Maryland,2020-12-05,218
+Maryland,2020-12-12,280
+Maryland,2020-12-19,312
+Maryland,2020-12-26,268
+Maryland,2021-01-02,287
+Maryland,2021-01-09,279
+Maryland,2021-01-16,295
+Maryland,2021-01-23,296
+Maryland,2021-01-30,270
+Maryland,2021-02-06,222
+Maryland,2021-02-13,207
+Maryland,2021-02-20,161
+Maryland,2021-02-27,159
+Maryland,2021-03-06,85
+Maryland,2021-03-13,97
+Maryland,2021-03-20,120
+Maryland,2021-03-27,88
+Maryland,2021-04-03,96
+Massachusetts,2020-02-01,0
+Massachusetts,2020-02-08,0
+Massachusetts,2020-02-15,0
+Massachusetts,2020-02-22,0
+Massachusetts,2020-02-29,0
+Massachusetts,2020-03-07,0
+Massachusetts,2020-03-14,0
+Massachusetts,2020-03-21,1
+Massachusetts,2020-03-28,43
+Massachusetts,2020-04-04,172
+Massachusetts,2020-04-11,470
+Massachusetts,2020-04-18,718
+Massachusetts,2020-04-25,1326
+Massachusetts,2020-05-02,1116
+Massachusetts,2020-05-09,994
+Massachusetts,2020-05-16,865
+Massachusetts,2020-05-23,599
+Massachusetts,2020-05-30,464
+Massachusetts,2020-06-06,521
+Massachusetts,2020-06-13,287
+Massachusetts,2020-06-20,252
+Massachusetts,2020-06-27,213
+Massachusetts,2020-07-04,131
+Massachusetts,2020-07-11,138
+Massachusetts,2020-07-18,109
+Massachusetts,2020-07-25,91
+Massachusetts,2020-08-01,116
+Massachusetts,2020-08-08,95
+Massachusetts,2020-08-15,105
+Massachusetts,2020-08-22,95
+Massachusetts,2020-08-29,115
+Massachusetts,2020-09-05,80
+Massachusetts,2020-09-12,80
+Massachusetts,2020-09-19,99
+Massachusetts,2020-09-26,96
+Massachusetts,2020-10-03,116
+Massachusetts,2020-10-10,80
+Massachusetts,2020-10-17,136
+Massachusetts,2020-10-24,116
+Massachusetts,2020-10-31,152
+Massachusetts,2020-11-07,138
+Massachusetts,2020-11-14,164
+Massachusetts,2020-11-21,195
+Massachusetts,2020-11-28,188
+Massachusetts,2020-12-05,277
+Massachusetts,2020-12-12,354
+Massachusetts,2020-12-19,350
+Massachusetts,2020-12-26,353
+Massachusetts,2021-01-02,492
+Massachusetts,2021-01-09,572
+Massachusetts,2021-01-16,509
+Massachusetts,2021-01-23,481
+Massachusetts,2021-01-30,467
+Massachusetts,2021-02-06,390
+Massachusetts,2021-02-13,503
+Massachusetts,2021-02-20,355
+Massachusetts,2021-02-27,288
+Massachusetts,2021-03-06,307
+Massachusetts,2021-03-13,240
+Massachusetts,2021-03-20,218
+Massachusetts,2021-03-27,254
+Massachusetts,2021-04-03,195
+Michigan,2020-02-01,0
+Michigan,2020-02-08,0
+Michigan,2020-02-15,0
+Michigan,2020-02-22,0
+Michigan,2020-02-29,0
+Michigan,2020-03-07,0
+Michigan,2020-03-14,1
+Michigan,2020-03-21,5
+Michigan,2020-03-28,124
+Michigan,2020-04-04,455
+Michigan,2020-04-11,902
+Michigan,2020-04-18,973
+Michigan,2020-04-25,879
+Michigan,2020-05-02,885
+Michigan,2020-05-09,533
+Michigan,2020-05-16,357
+Michigan,2020-05-23,346
+Michigan,2020-05-30,244
+Michigan,2020-06-06,212
+Michigan,2020-06-13,97
+Michigan,2020-06-20,74
+Michigan,2020-06-27,66
+Michigan,2020-07-04,65
+Michigan,2020-07-11,95
+Michigan,2020-07-18,51
+Michigan,2020-07-25,36
+Michigan,2020-08-01,57
+Michigan,2020-08-08,63
+Michigan,2020-08-15,66
+Michigan,2020-08-22,69
+Michigan,2020-08-29,57
+Michigan,2020-09-05,94
+Michigan,2020-09-12,105
+Michigan,2020-09-19,58
+Michigan,2020-09-26,75
+Michigan,2020-10-03,80
+Michigan,2020-10-10,95
+Michigan,2020-10-17,121
+Michigan,2020-10-24,182
+Michigan,2020-10-31,177
+Michigan,2020-11-07,246
+Michigan,2020-11-14,431
+Michigan,2020-11-21,499
+Michigan,2020-11-28,592
+Michigan,2020-12-05,854
+Michigan,2020-12-12,874
+Michigan,2020-12-19,879
+Michigan,2020-12-26,616
+Michigan,2021-01-02,616
+Michigan,2021-01-09,839
+Michigan,2021-01-16,524
+Michigan,2021-01-23,512
+Michigan,2021-01-30,344
+Michigan,2021-02-06,329
+Michigan,2021-02-13,265
+Michigan,2021-02-20,223
+Michigan,2021-02-27,166
+Michigan,2021-03-06,150
+Michigan,2021-03-13,111
+Michigan,2021-03-20,137
+Michigan,2021-03-27,141
+Michigan,2021-04-03,212
+Minnesota,2020-02-01,0
+Minnesota,2020-02-08,0
+Minnesota,2020-02-15,0
+Minnesota,2020-02-22,0
+Minnesota,2020-02-29,0
+Minnesota,2020-03-07,0
+Minnesota,2020-03-14,0
+Minnesota,2020-03-21,1
+Minnesota,2020-03-28,4
+Minnesota,2020-04-04,19
+Minnesota,2020-04-11,40
+Minnesota,2020-04-18,57
+Minnesota,2020-04-25,123
+Minnesota,2020-05-02,150
+Minnesota,2020-05-09,164
+Minnesota,2020-05-16,151
+Minnesota,2020-05-23,152
+Minnesota,2020-05-30,175
+Minnesota,2020-06-06,145
+Minnesota,2020-06-13,133
+Minnesota,2020-06-20,90
+Minnesota,2020-06-27,48
+Minnesota,2020-07-04,51
+Minnesota,2020-07-11,34
+Minnesota,2020-07-18,41
+Minnesota,2020-07-25,33
+Minnesota,2020-08-01,35
+Minnesota,2020-08-08,43
+Minnesota,2020-08-15,16
+Minnesota,2020-08-22,102
+Minnesota,2020-08-29,56
+Minnesota,2020-09-05,40
+Minnesota,2020-09-12,55
+Minnesota,2020-09-19,57
+Minnesota,2020-09-26,41
+Minnesota,2020-10-03,70
+Minnesota,2020-10-10,58
+Minnesota,2020-10-17,86
+Minnesota,2020-10-24,111
+Minnesota,2020-10-31,130
+Minnesota,2020-11-07,168
+Minnesota,2020-11-14,251
+Minnesota,2020-11-21,327
+Minnesota,2020-11-28,323
+Minnesota,2020-12-05,399
+Minnesota,2020-12-12,439
+Minnesota,2020-12-19,421
+Minnesota,2020-12-26,327
+Minnesota,2021-01-02,270
+Minnesota,2021-01-09,295
+Minnesota,2021-01-16,224
+Minnesota,2021-01-23,176
+Minnesota,2021-01-30,124
+Minnesota,2021-02-06,102
+Minnesota,2021-02-13,80
+Minnesota,2021-02-20,54
+Minnesota,2021-02-27,52
+Minnesota,2021-03-06,71
+Minnesota,2021-03-13,195
+Minnesota,2021-03-20,36
+Minnesota,2021-03-27,58
+Minnesota,2021-04-03,50
+Mississippi,2020-02-01,0
+Mississippi,2020-02-08,0
+Mississippi,2020-02-15,0
+Mississippi,2020-02-22,0
+Mississippi,2020-02-29,0
+Mississippi,2020-03-07,0
+Mississippi,2020-03-14,0
+Mississippi,2020-03-21,1
+Mississippi,2020-03-28,12
+Mississippi,2020-04-04,22
+Mississippi,2020-04-11,58
+Mississippi,2020-04-18,59
+Mississippi,2020-04-25,69
+Mississippi,2020-05-02,70
+Mississippi,2020-05-09,130
+Mississippi,2020-05-16,89
+Mississippi,2020-05-23,106
+Mississippi,2020-05-30,107
+Mississippi,2020-06-06,88
+Mississippi,2020-06-13,78
+Mississippi,2020-06-20,49
+Mississippi,2020-06-27,97
+Mississippi,2020-07-04,72
+Mississippi,2020-07-11,123
+Mississippi,2020-07-18,116
+Mississippi,2020-07-25,132
+Mississippi,2020-08-01,215
+Mississippi,2020-08-08,181
+Mississippi,2020-08-15,206
+Mississippi,2020-08-22,157
+Mississippi,2020-08-29,190
+Mississippi,2020-09-05,142
+Mississippi,2020-09-12,116
+Mississippi,2020-09-19,124
+Mississippi,2020-09-26,102
+Mississippi,2020-10-03,100
+Mississippi,2020-10-10,85
+Mississippi,2020-10-17,75
+Mississippi,2020-10-24,84
+Mississippi,2020-10-31,79
+Mississippi,2020-11-07,99
+Mississippi,2020-11-14,107
+Mississippi,2020-11-21,117
+Mississippi,2020-11-28,122
+Mississippi,2020-12-05,170
+Mississippi,2020-12-12,231
+Mississippi,2020-12-19,210
+Mississippi,2020-12-26,175
+Mississippi,2021-01-02,275
+Mississippi,2021-01-09,306
+Mississippi,2021-01-16,335
+Mississippi,2021-01-23,271
+Mississippi,2021-01-30,266
+Mississippi,2021-02-06,248
+Mississippi,2021-02-13,195
+Mississippi,2021-02-20,92
+Mississippi,2021-02-27,116
+Mississippi,2021-03-06,136
+Mississippi,2021-03-13,91
+Mississippi,2021-03-20,59
+Mississippi,2021-03-27,45
+Mississippi,2021-04-03,55
+Missouri,2020-02-01,0
+Missouri,2020-02-08,0
+Missouri,2020-02-15,0
+Missouri,2020-02-22,0
+Missouri,2020-02-29,0
+Missouri,2020-03-07,0
+Missouri,2020-03-14,0
+Missouri,2020-03-21,3
+Missouri,2020-03-28,10
+Missouri,2020-04-04,38
+Missouri,2020-04-11,94
+Missouri,2020-04-18,91
+Missouri,2020-04-25,121
+Missouri,2020-05-02,116
+Missouri,2020-05-09,125
+Missouri,2020-05-16,98
+Missouri,2020-05-23,74
+Missouri,2020-05-30,50
+Missouri,2020-06-06,36
+Missouri,2020-06-13,39
+Missouri,2020-06-20,88
+Missouri,2020-06-27,41
+Missouri,2020-07-04,37
+Missouri,2020-07-11,41
+Missouri,2020-07-18,46
+Missouri,2020-07-25,65
+Missouri,2020-08-01,76
+Missouri,2020-08-08,58
+Missouri,2020-08-15,51
+Missouri,2020-08-22,74
+Missouri,2020-08-29,79
+Missouri,2020-09-05,141
+Missouri,2020-09-12,62
+Missouri,2020-09-19,100
+Missouri,2020-09-26,229
+Missouri,2020-10-03,110
+Missouri,2020-10-10,243
+Missouri,2020-10-17,159
+Missouri,2020-10-24,232
+Missouri,2020-10-31,228
+Missouri,2020-11-07,127
+Missouri,2020-11-14,224
+Missouri,2020-11-21,191
+Missouri,2020-11-28,276
+Missouri,2020-12-05,432
+Missouri,2020-12-12,326
+Missouri,2020-12-19,446
+Missouri,2020-12-26,423
+Missouri,2021-01-02,251
+Missouri,2021-01-09,422
+Missouri,2021-01-16,350
+Missouri,2021-01-23,318
+Missouri,2021-01-30,229
+Missouri,2021-02-06,402
+Missouri,2021-02-13,308
+Missouri,2021-02-20,279
+Missouri,2021-02-27,223
+Missouri,2021-03-06,230
+Missouri,2021-03-13,148
+Missouri,2021-03-20,53
+Missouri,2021-03-27,83
+Missouri,2021-04-03,70
+Montana,2020-02-01,0
+Montana,2020-02-08,0
+Montana,2020-02-15,0
+Montana,2020-02-22,0
+Montana,2020-02-29,0
+Montana,2020-03-07,0
+Montana,2020-03-14,0
+Montana,2020-03-21,0
+Montana,2020-03-28,1
+Montana,2020-04-04,5
+Montana,2020-04-11,0
+Montana,2020-04-18,4
+Montana,2020-04-25,4
+Montana,2020-05-02,2
+Montana,2020-05-09,0
+Montana,2020-05-16,0
+Montana,2020-05-23,0
+Montana,2020-05-30,1
+Montana,2020-06-06,1
+Montana,2020-06-13,0
+Montana,2020-06-20,2
+Montana,2020-06-27,2
+Montana,2020-07-04,1
+Montana,2020-07-11,6
+Montana,2020-07-18,8
+Montana,2020-07-25,9
+Montana,2020-08-01,15
+Montana,2020-08-08,14
+Montana,2020-08-15,7
+Montana,2020-08-22,8
+Montana,2020-08-29,14
+Montana,2020-09-05,12
+Montana,2020-09-12,17
+Montana,2020-09-19,23
+Montana,2020-09-26,15
+Montana,2020-10-03,15
+Montana,2020-10-10,23
+Montana,2020-10-17,30
+Montana,2020-10-24,55
+Montana,2020-10-31,81
+Montana,2020-11-07,70
+Montana,2020-11-14,69
+Montana,2020-11-21,86
+Montana,2020-11-28,69
+Montana,2020-12-05,65
+Montana,2020-12-12,82
+Montana,2020-12-19,48
+Montana,2020-12-26,55
+Montana,2021-01-02,52
+Montana,2021-01-09,83
+Montana,2021-01-16,34
+Montana,2021-01-23,53
+Montana,2021-01-30,91
+Montana,2021-02-06,80
+Montana,2021-02-13,15
+Montana,2021-02-20,14
+Montana,2021-02-27,15
+Montana,2021-03-06,23
+Montana,2021-03-13,13
+Montana,2021-03-20,22
+Montana,2021-03-27,22
+Montana,2021-04-03,29
+Nebraska,2020-02-01,0
+Nebraska,2020-02-08,0
+Nebraska,2020-02-15,0
+Nebraska,2020-02-22,0
+Nebraska,2020-02-29,0
+Nebraska,2020-03-07,0
+Nebraska,2020-03-14,0
+Nebraska,2020-03-21,0
+Nebraska,2020-03-28,2
+Nebraska,2020-04-04,4
+Nebraska,2020-04-11,11
+Nebraska,2020-04-18,7
+Nebraska,2020-04-25,26
+Nebraska,2020-05-02,23
+Nebraska,2020-05-09,17
+Nebraska,2020-05-16,33
+Nebraska,2020-05-23,24
+Nebraska,2020-05-30,23
+Nebraska,2020-06-06,17
+Nebraska,2020-06-13,28
+Nebraska,2020-06-20,29
+Nebraska,2020-06-27,23
+Nebraska,2020-07-04,17
+Nebraska,2020-07-11,1
+Nebraska,2020-07-18,16
+Nebraska,2020-07-25,15
+Nebraska,2020-08-01,16
+Nebraska,2020-08-08,13
+Nebraska,2020-08-15,16
+Nebraska,2020-08-22,15
+Nebraska,2020-08-29,16
+Nebraska,2020-09-05,12
+Nebraska,2020-09-12,33
+Nebraska,2020-09-19,5
+Nebraska,2020-09-26,27
+Nebraska,2020-10-03,28
+Nebraska,2020-10-10,22
+Nebraska,2020-10-17,28
+Nebraska,2020-10-24,48
+Nebraska,2020-10-31,57
+Nebraska,2020-11-07,51
+Nebraska,2020-11-14,76
+Nebraska,2020-11-21,126
+Nebraska,2020-11-28,84
+Nebraska,2020-12-05,205
+Nebraska,2020-12-12,171
+Nebraska,2020-12-19,110
+Nebraska,2020-12-26,84
+Nebraska,2021-01-02,110
+Nebraska,2021-01-09,68
+Nebraska,2021-01-16,100
+Nebraska,2021-01-23,42
+Nebraska,2021-01-30,41
+Nebraska,2021-02-06,48
+Nebraska,2021-02-13,34
+Nebraska,2021-02-20,45
+Nebraska,2021-02-27,35
+Nebraska,2021-03-06,31
+Nebraska,2021-03-13,14
+Nebraska,2021-03-20,8
+Nebraska,2021-03-27,40
+Nebraska,2021-04-03,6
+Nevada,2020-02-01,0
+Nevada,2020-02-08,0
+Nevada,2020-02-15,0
+Nevada,2020-02-22,0
+Nevada,2020-02-29,0
+Nevada,2020-03-07,0
+Nevada,2020-03-14,0
+Nevada,2020-03-21,2
+Nevada,2020-03-28,8
+Nevada,2020-04-04,36
+Nevada,2020-04-11,56
+Nevada,2020-04-18,49
+Nevada,2020-04-25,54
+Nevada,2020-05-02,50
+Nevada,2020-05-09,58
+Nevada,2020-05-16,34
+Nevada,2020-05-23,40
+Nevada,2020-05-30,30
+Nevada,2020-06-06,20
+Nevada,2020-06-13,25
+Nevada,2020-06-20,24
+Nevada,2020-06-27,14
+Nevada,2020-07-04,30
+Nevada,2020-07-11,62
+Nevada,2020-07-18,54
+Nevada,2020-07-25,86
+Nevada,2020-08-01,100
+Nevada,2020-08-08,117
+Nevada,2020-08-15,120
+Nevada,2020-08-22,128
+Nevada,2020-08-29,105
+Nevada,2020-09-05,86
+Nevada,2020-09-12,61
+Nevada,2020-09-19,79
+Nevada,2020-09-26,54
+Nevada,2020-10-03,38
+Nevada,2020-10-10,39
+Nevada,2020-10-17,48
+Nevada,2020-10-24,36
+Nevada,2020-10-31,34
+Nevada,2020-11-07,73
+Nevada,2020-11-14,58
+Nevada,2020-11-21,103
+Nevada,2020-11-28,108
+Nevada,2020-12-05,182
+Nevada,2020-12-12,219
+Nevada,2020-12-19,229
+Nevada,2020-12-26,193
+Nevada,2021-01-02,206
+Nevada,2021-01-09,302
+Nevada,2021-01-16,311
+Nevada,2021-01-23,250
+Nevada,2021-01-30,253
+Nevada,2021-02-06,232
+Nevada,2021-02-13,198
+Nevada,2021-02-20,174
+Nevada,2021-02-27,89
+Nevada,2021-03-06,79
+Nevada,2021-03-13,81
+Nevada,2021-03-20,54
+Nevada,2021-03-27,65
+Nevada,2021-04-03,38
+New Hampshire,2020-02-01,0
+New Hampshire,2020-02-08,0
+New Hampshire,2020-02-15,0
+New Hampshire,2020-02-22,0
+New Hampshire,2020-02-29,0
+New Hampshire,2020-03-07,0
+New Hampshire,2020-03-14,0
+New Hampshire,2020-03-21,0
+New Hampshire,2020-03-28,2
+New Hampshire,2020-04-04,5
+New Hampshire,2020-04-11,15
+New Hampshire,2020-04-18,16
+New Hampshire,2020-04-25,15
+New Hampshire,2020-05-02,31
+New Hampshire,2020-05-09,47
+New Hampshire,2020-05-16,40
+New Hampshire,2020-05-23,37
+New Hampshire,2020-05-30,30
+New Hampshire,2020-06-06,45
+New Hampshire,2020-06-13,35
+New Hampshire,2020-06-20,21
+New Hampshire,2020-06-27,28
+New Hampshire,2020-07-04,12
+New Hampshire,2020-07-11,12
+New Hampshire,2020-07-18,5
+New Hampshire,2020-07-25,13
+New Hampshire,2020-08-01,7
+New Hampshire,2020-08-08,3
+New Hampshire,2020-08-15,4
+New Hampshire,2020-08-22,6
+New Hampshire,2020-08-29,3
+New Hampshire,2020-09-05,0
+New Hampshire,2020-09-12,3
+New Hampshire,2020-09-19,3
+New Hampshire,2020-09-26,1
+New Hampshire,2020-10-03,3
+New Hampshire,2020-10-10,13
+New Hampshire,2020-10-17,11
+New Hampshire,2020-10-24,7
+New Hampshire,2020-10-31,10
+New Hampshire,2020-11-07,6
+New Hampshire,2020-11-14,10
+New Hampshire,2020-11-21,9
+New Hampshire,2020-11-28,15
+New Hampshire,2020-12-05,36
+New Hampshire,2020-12-12,41
+New Hampshire,2020-12-19,50
+New Hampshire,2020-12-26,51
+New Hampshire,2021-01-02,68
+New Hampshire,2021-01-09,93
+New Hampshire,2021-01-16,65
+New Hampshire,2021-01-23,54
+New Hampshire,2021-01-30,61
+New Hampshire,2021-02-06,56
+New Hampshire,2021-02-13,32
+New Hampshire,2021-02-20,23
+New Hampshire,2021-02-27,17
+New Hampshire,2021-03-06,11
+New Hampshire,2021-03-13,18
+New Hampshire,2021-03-20,18
+New Hampshire,2021-03-27,18
+New Hampshire,2021-04-03,12
+New Jersey,2020-02-01,0
+New Jersey,2020-02-08,0
+New Jersey,2020-02-15,0
+New Jersey,2020-02-22,0
+New Jersey,2020-02-29,0
+New Jersey,2020-03-07,0
+New Jersey,2020-03-14,1
+New Jersey,2020-03-21,21
+New Jersey,2020-03-28,170
+New Jersey,2020-04-04,867
+New Jersey,2020-04-11,1795
+New Jersey,2020-04-18,2315
+New Jersey,2020-04-25,2105
+New Jersey,2020-05-02,2028
+New Jersey,2020-05-09,1503
+New Jersey,2020-05-16,1208
+New Jersey,2020-05-23,856
+New Jersey,2020-05-30,581
+New Jersey,2020-06-06,495
+New Jersey,2020-06-13,531
+New Jersey,2020-06-20,309
+New Jersey,2020-06-27,163
+New Jersey,2020-07-04,241
+New Jersey,2020-07-11,336
+New Jersey,2020-07-18,174
+New Jersey,2020-07-25,77
+New Jersey,2020-08-01,54
+New Jersey,2020-08-08,39
+New Jersey,2020-08-15,41
+New Jersey,2020-08-22,33
+New Jersey,2020-08-29,-10
+New Jersey,2020-09-05,52
+New Jersey,2020-09-12,42
+New Jersey,2020-09-19,37
+New Jersey,2020-09-26,39
+New Jersey,2020-10-03,32
+New Jersey,2020-10-10,36
+New Jersey,2020-10-17,33
+New Jersey,2020-10-24,77
+New Jersey,2020-10-31,69
+New Jersey,2020-11-07,75
+New Jersey,2020-11-14,123
+New Jersey,2020-11-21,198
+New Jersey,2020-11-28,219
+New Jersey,2020-12-05,341
+New Jersey,2020-12-12,426
+New Jersey,2020-12-19,441
+New Jersey,2020-12-26,440
+New Jersey,2021-01-02,574
+New Jersey,2021-01-09,667
+New Jersey,2021-01-16,560
+New Jersey,2021-01-23,520
+New Jersey,2021-01-30,521
+New Jersey,2021-02-06,509
+New Jersey,2021-02-13,476
+New Jersey,2021-02-20,394
+New Jersey,2021-02-27,404
+New Jersey,2021-03-06,319
+New Jersey,2021-03-13,331
+New Jersey,2021-03-20,246
+New Jersey,2021-03-27,248
+New Jersey,2021-04-03,250
+New Mexico,2020-02-01,0
+New Mexico,2020-02-08,0
+New Mexico,2020-02-15,0
+New Mexico,2020-02-22,0
+New Mexico,2020-02-29,0
+New Mexico,2020-03-07,0
+New Mexico,2020-03-14,0
+New Mexico,2020-03-21,0
+New Mexico,2020-03-28,1
+New Mexico,2020-04-04,10
+New Mexico,2020-04-11,8
+New Mexico,2020-04-18,34
+New Mexico,2020-04-25,40
+New Mexico,2020-05-02,45
+New Mexico,2020-05-09,53
+New Mexico,2020-05-16,68
+New Mexico,2020-05-23,49
+New Mexico,2020-05-30,43
+New Mexico,2020-06-06,41
+New Mexico,2020-06-13,39
+New Mexico,2020-06-20,35
+New Mexico,2020-06-27,25
+New Mexico,2020-07-04,22
+New Mexico,2020-07-11,30
+New Mexico,2020-07-18,26
+New Mexico,2020-07-25,38
+New Mexico,2020-08-01,44
+New Mexico,2020-08-08,30
+New Mexico,2020-08-15,30
+New Mexico,2020-08-22,32
+New Mexico,2020-08-29,26
+New Mexico,2020-09-05,31
+New Mexico,2020-09-12,21
+New Mexico,2020-09-19,26
+New Mexico,2020-09-26,23
+New Mexico,2020-10-03,20
+New Mexico,2020-10-10,17
+New Mexico,2020-10-17,22
+New Mexico,2020-10-24,36
+New Mexico,2020-10-31,53
+New Mexico,2020-11-07,86
+New Mexico,2020-11-14,104
+New Mexico,2020-11-21,142
+New Mexico,2020-11-28,177
+New Mexico,2020-12-05,211
+New Mexico,2020-12-12,175
+New Mexico,2020-12-19,242
+New Mexico,2020-12-26,161
+New Mexico,2021-01-02,218
+New Mexico,2021-01-09,198
+New Mexico,2021-01-16,178
+New Mexico,2021-01-23,205
+New Mexico,2021-01-30,150
+New Mexico,2021-02-06,121
+New Mexico,2021-02-13,130
+New Mexico,2021-02-20,94
+New Mexico,2021-02-27,90
+New Mexico,2021-03-06,96
+New Mexico,2021-03-13,54
+New Mexico,2021-03-20,39
+New Mexico,2021-03-27,36
+New Mexico,2021-04-03,24
+New York,2020-02-01,0
+New York,2020-02-08,0
+New York,2020-02-15,0
+New York,2020-02-22,0
+New York,2020-02-29,0
+New York,2020-03-07,0
+New York,2020-03-14,5
+New York,2020-03-21,190
+New York,2020-03-28,1297
+New York,2020-04-04,4194
+New York,2020-04-11,7086
+New York,2020-04-18,5403
+New York,2020-04-25,4330
+New York,2020-05-02,2696
+New York,2020-05-09,2253
+New York,2020-05-16,1391
+New York,2020-05-23,1187
+New York,2020-05-30,617
+New York,2020-06-06,492
+New York,2020-06-13,427
+New York,2020-06-20,249
+New York,2020-06-27,234
+New York,2020-07-04,155
+New York,2020-07-11,174
+New York,2020-07-18,117
+New York,2020-07-25,115
+New York,2020-08-01,72
+New York,2020-08-08,69
+New York,2020-08-15,56
+New York,2020-08-22,30
+New York,2020-08-29,52
+New York,2020-09-05,96
+New York,2020-09-12,36
+New York,2020-09-19,58
+New York,2020-09-26,205
+New York,2020-10-03,89
+New York,2020-10-10,91
+New York,2020-10-17,81
+New York,2020-10-24,87
+New York,2020-10-31,96
+New York,2020-11-07,154
+New York,2020-11-14,126
+New York,2020-11-21,286
+New York,2020-11-28,230
+New York,2020-12-05,413
+New York,2020-12-12,565
+New York,2020-12-19,814
+New York,2020-12-26,968
+New York,2021-01-02,987
+New York,2021-01-09,1198
+New York,2021-01-16,1335
+New York,2021-01-23,1328
+New York,2021-01-30,1319
+New York,2021-02-06,1211
+New York,2021-02-13,1087
+New York,2021-02-20,952
+New York,2021-02-27,795
+New York,2021-03-06,749
+New York,2021-03-13,603
+New York,2021-03-20,551
+New York,2021-03-27,527
+New York,2021-04-03,623
+North Carolina,2020-02-01,0
+North Carolina,2020-02-08,0
+North Carolina,2020-02-15,0
+North Carolina,2020-02-22,0
+North Carolina,2020-02-29,0
+North Carolina,2020-03-07,0
+North Carolina,2020-03-14,0
+North Carolina,2020-03-21,0
+North Carolina,2020-03-28,5
+North Carolina,2020-04-04,29
+North Carolina,2020-04-11,55
+North Carolina,2020-04-18,98
+North Carolina,2020-04-25,118
+North Carolina,2020-05-02,126
+North Carolina,2020-05-09,120
+North Carolina,2020-05-16,125
+North Carolina,2020-05-23,102
+North Carolina,2020-05-30,151
+North Carolina,2020-06-06,99
+North Carolina,2020-06-13,99
+North Carolina,2020-06-20,88
+North Carolina,2020-06-27,138
+North Carolina,2020-07-04,69
+North Carolina,2020-07-11,91
+North Carolina,2020-07-18,135
+North Carolina,2020-07-25,163
+North Carolina,2020-08-01,168
+North Carolina,2020-08-08,205
+North Carolina,2020-08-15,159
+North Carolina,2020-08-22,178
+North Carolina,2020-08-29,162
+North Carolina,2020-09-05,206
+North Carolina,2020-09-12,158
+North Carolina,2020-09-19,188
+North Carolina,2020-09-26,205
+North Carolina,2020-10-03,189
+North Carolina,2020-10-10,136
+North Carolina,2020-10-17,164
+North Carolina,2020-10-24,215
+North Carolina,2020-10-31,234
+North Carolina,2020-11-07,227
+North Carolina,2020-11-14,151
+North Carolina,2020-11-21,249
+North Carolina,2020-11-28,214
+North Carolina,2020-12-05,297
+North Carolina,2020-12-12,280
+North Carolina,2020-12-19,388
+North Carolina,2020-12-26,342
+North Carolina,2021-01-02,366
+North Carolina,2021-01-09,533
+North Carolina,2021-01-16,591
+North Carolina,2021-01-23,570
+North Carolina,2021-01-30,701
+North Carolina,2021-02-06,639
+North Carolina,2021-02-13,527
+North Carolina,2021-02-20,443
+North Carolina,2021-02-27,316
+North Carolina,2021-03-06,290
+North Carolina,2021-03-13,189
+North Carolina,2021-03-20,129
+North Carolina,2021-03-27,208
+North Carolina,2021-04-03,108
+North Dakota,2020-02-01,0
+North Dakota,2020-02-08,0
+North Dakota,2020-02-15,0
+North Dakota,2020-02-22,0
+North Dakota,2020-02-29,0
+North Dakota,2020-03-07,0
+North Dakota,2020-03-14,0
+North Dakota,2020-03-21,0
+North Dakota,2020-03-28,1
+North Dakota,2020-04-04,2
+North Dakota,2020-04-11,4
+North Dakota,2020-04-18,2
+North Dakota,2020-04-25,7
+North Dakota,2020-05-02,8
+North Dakota,2020-05-09,11
+North Dakota,2020-05-16,7
+North Dakota,2020-05-23,10
+North Dakota,2020-05-30,8
+North Dakota,2020-06-06,12
+North Dakota,2020-06-13,2
+North Dakota,2020-06-20,2
+North Dakota,2020-06-27,2
+North Dakota,2020-07-04,2
+North Dakota,2020-07-11,7
+North Dakota,2020-07-18,3
+North Dakota,2020-07-25,9
+North Dakota,2020-08-01,4
+North Dakota,2020-08-08,9
+North Dakota,2020-08-15,9
+North Dakota,2020-08-22,14
+North Dakota,2020-08-29,6
+North Dakota,2020-09-05,14
+North Dakota,2020-09-12,12
+North Dakota,2020-09-19,25
+North Dakota,2020-09-26,35
+North Dakota,2020-10-03,44
+North Dakota,2020-10-10,65
+North Dakota,2020-10-17,63
+North Dakota,2020-10-24,49
+North Dakota,2020-10-31,76
+North Dakota,2020-11-07,104
+North Dakota,2020-11-14,98
+North Dakota,2020-11-21,114
+North Dakota,2020-11-28,81
+North Dakota,2020-12-05,92
+North Dakota,2020-12-12,139
+North Dakota,2020-12-19,79
+North Dakota,2020-12-26,33
+North Dakota,2021-01-02,53
+North Dakota,2021-01-09,43
+North Dakota,2021-01-16,43
+North Dakota,2021-01-23,33
+North Dakota,2021-01-30,11
+North Dakota,2021-02-06,6
+North Dakota,2021-02-13,8
+North Dakota,2021-02-20,6
+North Dakota,2021-02-27,8
+North Dakota,2021-03-06,4
+North Dakota,2021-03-13,9
+North Dakota,2021-03-20,4
+North Dakota,2021-03-27,6
+North Dakota,2021-04-03,0
+Ohio,2020-02-01,0
+Ohio,2020-02-08,0
+Ohio,2020-02-15,0
+Ohio,2020-02-22,0
+Ohio,2020-02-29,0
+Ohio,2020-03-07,0
+Ohio,2020-03-14,1
+Ohio,2020-03-21,7
+Ohio,2020-03-28,42
+Ohio,2020-04-04,116
+Ohio,2020-04-11,164
+Ohio,2020-04-18,252
+Ohio,2020-04-25,270
+Ohio,2020-05-02,311
+Ohio,2020-05-09,271
+Ohio,2020-05-16,240
+Ohio,2020-05-23,245
+Ohio,2020-05-30,166
+Ohio,2020-06-06,169
+Ohio,2020-06-13,112
+Ohio,2020-06-20,90
+Ohio,2020-06-27,81
+Ohio,2020-07-04,90
+Ohio,2020-07-11,112
+Ohio,2020-07-18,111
+Ohio,2020-07-25,169
+Ohio,2020-08-01,172
+Ohio,2020-08-08,151
+Ohio,2020-08-15,166
+Ohio,2020-08-22,160
+Ohio,2020-08-29,164
+Ohio,2020-09-05,150
+Ohio,2020-09-12,140
+Ohio,2020-09-19,112
+Ohio,2020-09-26,122
+Ohio,2020-10-03,120
+Ohio,2020-10-10,147
+Ohio,2020-10-17,170
+Ohio,2020-10-24,218
+Ohio,2020-10-31,270
+Ohio,2020-11-07,384
+Ohio,2020-11-14,480
+Ohio,2020-11-21,667
+Ohio,2020-11-28,899
+Ohio,2020-12-05,1128
+Ohio,2020-12-12,1280
+Ohio,2020-12-19,1345
+Ohio,2020-12-26,1203
+Ohio,2021-01-02,1103
+Ohio,2021-01-09,961
+Ohio,2021-01-16,944
+Ohio,2021-01-23,750
+Ohio,2021-01-30,612
+Ohio,2021-02-06,490
+Ohio,2021-02-13,358
+Ohio,2021-02-20,310
+Ohio,2021-02-27,201
+Ohio,2021-03-06,165
+Ohio,2021-03-13,126
+Ohio,2021-03-20,71
+Ohio,2021-03-27,46
+Ohio,2021-04-03,21
+Oklahoma,2020-02-01,0
+Oklahoma,2020-02-08,0
+Oklahoma,2020-02-15,0
+Oklahoma,2020-02-22,0
+Oklahoma,2020-02-29,0
+Oklahoma,2020-03-07,0
+Oklahoma,2020-03-14,0
+Oklahoma,2020-03-21,1
+Oklahoma,2020-03-28,14
+Oklahoma,2020-04-04,27
+Oklahoma,2020-04-11,52
+Oklahoma,2020-04-18,42
+Oklahoma,2020-04-25,58
+Oklahoma,2020-05-02,44
+Oklahoma,2020-05-09,32
+Oklahoma,2020-05-16,18
+Oklahoma,2020-05-23,23
+Oklahoma,2020-05-30,23
+Oklahoma,2020-06-06,13
+Oklahoma,2020-06-13,12
+Oklahoma,2020-06-20,9
+Oklahoma,2020-06-27,16
+Oklahoma,2020-07-04,14
+Oklahoma,2020-07-11,23
+Oklahoma,2020-07-18,30
+Oklahoma,2020-07-25,45
+Oklahoma,2020-08-01,53
+Oklahoma,2020-08-08,54
+Oklahoma,2020-08-15,54
+Oklahoma,2020-08-22,68
+Oklahoma,2020-08-29,72
+Oklahoma,2020-09-05,53
+Oklahoma,2020-09-12,49
+Oklahoma,2020-09-19,44
+Oklahoma,2020-09-26,61
+Oklahoma,2020-10-03,47
+Oklahoma,2020-10-10,44
+Oklahoma,2020-10-17,67
+Oklahoma,2020-10-24,83
+Oklahoma,2020-10-31,92
+Oklahoma,2020-11-07,92
+Oklahoma,2020-11-14,87
+Oklahoma,2020-11-21,108
+Oklahoma,2020-11-28,93
+Oklahoma,2020-12-05,157
+Oklahoma,2020-12-12,168
+Oklahoma,2020-12-19,147
+Oklahoma,2020-12-26,168
+Oklahoma,2021-01-02,170
+Oklahoma,2021-01-09,211
+Oklahoma,2021-01-16,214
+Oklahoma,2021-01-23,279
+Oklahoma,2021-01-30,273
+Oklahoma,2021-02-06,257
+Oklahoma,2021-02-13,233
+Oklahoma,2021-02-20,161
+Oklahoma,2021-02-27,224
+Oklahoma,2021-03-06,155
+Oklahoma,2021-03-13,167
+Oklahoma,2021-03-20,87
+Oklahoma,2021-03-27,62
+Oklahoma,2021-04-03,103
+Oregon,2020-02-01,0
+Oregon,2020-02-08,0
+Oregon,2020-02-15,0
+Oregon,2020-02-22,0
+Oregon,2020-02-29,0
+Oregon,2020-03-07,0
+Oregon,2020-03-14,0
+Oregon,2020-03-21,4
+Oregon,2020-03-28,9
+Oregon,2020-04-04,9
+Oregon,2020-04-11,26
+Oregon,2020-04-18,24
+Oregon,2020-04-25,15
+Oregon,2020-05-02,22
+Oregon,2020-05-09,18
+Oregon,2020-05-16,10
+Oregon,2020-05-23,10
+Oregon,2020-05-30,6
+Oregon,2020-06-06,8
+Oregon,2020-06-13,12
+Oregon,2020-06-20,16
+Oregon,2020-06-27,13
+Oregon,2020-07-04,11
+Oregon,2020-07-11,19
+Oregon,2020-07-18,25
+Oregon,2020-07-25,28
+Oregon,2020-08-01,40
+Oregon,2020-08-08,30
+Oregon,2020-08-15,31
+Oregon,2020-08-22,31
+Oregon,2020-08-29,37
+Oregon,2020-09-05,26
+Oregon,2020-09-12,25
+Oregon,2020-09-19,20
+Oregon,2020-09-26,17
+Oregon,2020-10-03,29
+Oregon,2020-10-10,28
+Oregon,2020-10-17,20
+Oregon,2020-10-24,34
+Oregon,2020-10-31,36
+Oregon,2020-11-07,40
+Oregon,2020-11-14,30
+Oregon,2020-11-21,60
+Oregon,2020-11-28,77
+Oregon,2020-12-05,131
+Oregon,2020-12-12,123
+Oregon,2020-12-19,190
+Oregon,2020-12-26,82
+Oregon,2021-01-02,70
+Oregon,2021-01-09,111
+Oregon,2021-01-16,196
+Oregon,2021-01-23,78
+Oregon,2021-01-30,80
+Oregon,2021-02-06,63
+Oregon,2021-02-13,117
+Oregon,2021-02-20,17
+Oregon,2021-02-27,54
+Oregon,2021-03-06,88
+Oregon,2021-03-13,26
+Oregon,2021-03-20,40
+Oregon,2021-03-27,13
+Oregon,2021-04-03,16
+Pennsylvania,2020-02-01,0
+Pennsylvania,2020-02-08,0
+Pennsylvania,2020-02-15,0
+Pennsylvania,2020-02-22,0
+Pennsylvania,2020-02-29,0
+Pennsylvania,2020-03-07,0
+Pennsylvania,2020-03-14,0
+Pennsylvania,2020-03-21,2
+Pennsylvania,2020-03-28,32
+Pennsylvania,2020-04-04,102
+Pennsylvania,2020-04-11,367
+Pennsylvania,2020-04-18,539
+Pennsylvania,2020-04-25,751
+Pennsylvania,2020-05-02,902
+Pennsylvania,2020-05-09,1084
+Pennsylvania,2020-05-16,701
+Pennsylvania,2020-05-23,632
+Pennsylvania,2020-05-30,425
+Pennsylvania,2020-06-06,394
+Pennsylvania,2020-06-13,280
+Pennsylvania,2020-06-20,208
+Pennsylvania,2020-06-27,184
+Pennsylvania,2020-07-04,146
+Pennsylvania,2020-07-11,148
+Pennsylvania,2020-07-18,118
+Pennsylvania,2020-07-25,109
+Pennsylvania,2020-08-01,95
+Pennsylvania,2020-08-08,91
+Pennsylvania,2020-08-15,141
+Pennsylvania,2020-08-22,104
+Pennsylvania,2020-08-29,101
+Pennsylvania,2020-09-05,94
+Pennsylvania,2020-09-12,79
+Pennsylvania,2020-09-19,111
+Pennsylvania,2020-09-26,143
+Pennsylvania,2020-10-03,97
+Pennsylvania,2020-10-10,144
+Pennsylvania,2020-10-17,118
+Pennsylvania,2020-10-24,194
+Pennsylvania,2020-10-31,164
+Pennsylvania,2020-11-07,201
+Pennsylvania,2020-11-14,251
+Pennsylvania,2020-11-21,523
+Pennsylvania,2020-11-28,459
+Pennsylvania,2020-12-05,957
+Pennsylvania,2020-12-12,1180
+Pennsylvania,2020-12-19,1383
+Pennsylvania,2020-12-26,1104
+Pennsylvania,2021-01-02,1321
+Pennsylvania,2021-01-09,1447
+Pennsylvania,2021-01-16,1517
+Pennsylvania,2021-01-23,1311
+Pennsylvania,2021-01-30,1108
+Pennsylvania,2021-02-06,791
+Pennsylvania,2021-02-13,690
+Pennsylvania,2021-02-20,497
+Pennsylvania,2021-02-27,355
+Pennsylvania,2021-03-06,411
+Pennsylvania,2021-03-13,204
+Pennsylvania,2021-03-20,273
+Pennsylvania,2021-03-27,177
+Pennsylvania,2021-04-03,206
+Rhode Island,2020-02-01,0
+Rhode Island,2020-02-08,0
+Rhode Island,2020-02-15,0
+Rhode Island,2020-02-22,0
+Rhode Island,2020-02-29,0
+Rhode Island,2020-03-07,0
+Rhode Island,2020-03-14,0
+Rhode Island,2020-03-21,1
+Rhode Island,2020-03-28,3
+Rhode Island,2020-04-04,24
+Rhode Island,2020-04-11,54
+Rhode Island,2020-04-18,93
+Rhode Island,2020-04-25,101
+Rhode Island,2020-05-02,126
+Rhode Island,2020-05-09,134
+Rhode Island,2020-05-16,108
+Rhode Island,2020-05-23,105
+Rhode Island,2020-05-30,75
+Rhode Island,2020-06-06,58
+Rhode Island,2020-06-13,24
+Rhode Island,2020-06-20,36
+Rhode Island,2020-06-27,23
+Rhode Island,2020-07-04,21
+Rhode Island,2020-07-11,14
+Rhode Island,2020-07-18,12
+Rhode Island,2020-07-25,9
+Rhode Island,2020-08-01,6
+Rhode Island,2020-08-08,10
+Rhode Island,2020-08-15,8
+Rhode Island,2020-08-22,20
+Rhode Island,2020-08-29,10
+Rhode Island,2020-09-05,12
+Rhode Island,2020-09-12,9
+Rhode Island,2020-09-19,15
+Rhode Island,2020-09-26,10
+Rhode Island,2020-10-03,10
+Rhode Island,2020-10-10,17
+Rhode Island,2020-10-17,26
+Rhode Island,2020-10-24,17
+Rhode Island,2020-10-31,25
+Rhode Island,2020-11-07,25
+Rhode Island,2020-11-14,42
+Rhode Island,2020-11-21,48
+Rhode Island,2020-11-28,68
+Rhode Island,2020-12-05,83
+Rhode Island,2020-12-12,140
+Rhode Island,2020-12-19,132
+Rhode Island,2020-12-26,102
+Rhode Island,2021-01-02,101
+Rhode Island,2021-01-09,105
+Rhode Island,2021-01-16,99
+Rhode Island,2021-01-23,95
+Rhode Island,2021-01-30,77
+Rhode Island,2021-02-06,67
+Rhode Island,2021-02-13,59
+Rhode Island,2021-02-20,26
+Rhode Island,2021-02-27,17
+Rhode Island,2021-03-06,39
+Rhode Island,2021-03-13,26
+Rhode Island,2021-03-20,28
+Rhode Island,2021-03-27,13
+Rhode Island,2021-04-03,22
+South Carolina,2020-02-01,0
+South Carolina,2020-02-08,0
+South Carolina,2020-02-15,0
+South Carolina,2020-02-22,0
+South Carolina,2020-02-29,0
+South Carolina,2020-03-07,0
+South Carolina,2020-03-14,0
+South Carolina,2020-03-21,3
+South Carolina,2020-03-28,12
+South Carolina,2020-04-04,25
+South Carolina,2020-04-11,40
+South Carolina,2020-04-18,39
+South Carolina,2020-04-25,47
+South Carolina,2020-05-02,101
+South Carolina,2020-05-09,63
+South Carolina,2020-05-16,50
+South Carolina,2020-05-23,45
+South Carolina,2020-05-30,62
+South Carolina,2020-06-06,58
+South Carolina,2020-06-13,54
+South Carolina,2020-06-20,45
+South Carolina,2020-06-27,67
+South Carolina,2020-07-04,102
+South Carolina,2020-07-11,138
+South Carolina,2020-07-18,184
+South Carolina,2020-07-25,330
+South Carolina,2020-08-01,286
+South Carolina,2020-08-08,256
+South Carolina,2020-08-15,253
+South Carolina,2020-08-22,233
+South Carolina,2020-08-29,205
+South Carolina,2020-09-05,179
+South Carolina,2020-09-12,163
+South Carolina,2020-09-19,148
+South Carolina,2020-09-26,135
+South Carolina,2020-10-03,119
+South Carolina,2020-10-10,109
+South Carolina,2020-10-17,86
+South Carolina,2020-10-24,156
+South Carolina,2020-10-31,142
+South Carolina,2020-11-07,80
+South Carolina,2020-11-14,95
+South Carolina,2020-11-21,164
+South Carolina,2020-11-28,72
+South Carolina,2020-12-05,171
+South Carolina,2020-12-12,168
+South Carolina,2020-12-19,210
+South Carolina,2020-12-26,229
+South Carolina,2021-01-02,261
+South Carolina,2021-01-09,373
+South Carolina,2021-01-16,350
+South Carolina,2021-01-23,371
+South Carolina,2021-01-30,535
+South Carolina,2021-02-06,597
+South Carolina,2021-02-13,300
+South Carolina,2021-02-20,345
+South Carolina,2021-02-27,242
+South Carolina,2021-03-06,221
+South Carolina,2021-03-13,151
+South Carolina,2021-03-20,107
+South Carolina,2021-03-27,127
+South Carolina,2021-04-03,92
+South Dakota,2020-02-01,0
+South Dakota,2020-02-08,0
+South Dakota,2020-02-15,0
+South Dakota,2020-02-22,0
+South Dakota,2020-02-29,0
+South Dakota,2020-03-07,0
+South Dakota,2020-03-14,1
+South Dakota,2020-03-21,0
+South Dakota,2020-03-28,0
+South Dakota,2020-04-04,1
+South Dakota,2020-04-11,4
+South Dakota,2020-04-18,1
+South Dakota,2020-04-25,3
+South Dakota,2020-05-02,11
+South Dakota,2020-05-09,13
+South Dakota,2020-05-16,10
+South Dakota,2020-05-23,6
+South Dakota,2020-05-30,12
+South Dakota,2020-06-06,3
+South Dakota,2020-06-13,10
+South Dakota,2020-06-20,6
+South Dakota,2020-06-27,10
+South Dakota,2020-07-04,6
+South Dakota,2020-07-11,12
+South Dakota,2020-07-18,7
+South Dakota,2020-07-25,6
+South Dakota,2020-08-01,12
+South Dakota,2020-08-08,12
+South Dakota,2020-08-15,6
+South Dakota,2020-08-22,8
+South Dakota,2020-08-29,7
+South Dakota,2020-09-05,6
+South Dakota,2020-09-12,10
+South Dakota,2020-09-19,17
+South Dakota,2020-09-26,18
+South Dakota,2020-10-03,30
+South Dakota,2020-10-10,38
+South Dakota,2020-10-17,29
+South Dakota,2020-10-24,51
+South Dakota,2020-10-31,59
+South Dakota,2020-11-07,98
+South Dakota,2020-11-14,98
+South Dakota,2020-11-21,156
+South Dakota,2020-11-28,165
+South Dakota,2020-12-05,149
+South Dakota,2020-12-12,152
+South Dakota,2020-12-19,107
+South Dakota,2020-12-26,96
+South Dakota,2021-01-02,55
+South Dakota,2021-01-09,69
+South Dakota,2021-01-16,63
+South Dakota,2021-01-23,63
+South Dakota,2021-01-30,79
+South Dakota,2021-02-06,29
+South Dakota,2021-02-13,34
+South Dakota,2021-02-20,21
+South Dakota,2021-02-27,27
+South Dakota,2021-03-06,12
+South Dakota,2021-03-13,11
+South Dakota,2021-03-20,13
+South Dakota,2021-03-27,11
+South Dakota,2021-04-03,5
+Tennessee,2020-02-01,0
+Tennessee,2020-02-08,0
+Tennessee,2020-02-15,0
+Tennessee,2020-02-22,0
+Tennessee,2020-02-29,0
+Tennessee,2020-03-07,0
+Tennessee,2020-03-14,0
+Tennessee,2020-03-21,1
+Tennessee,2020-03-28,6
+Tennessee,2020-04-04,43
+Tennessee,2020-04-11,56
+Tennessee,2020-04-18,36
+Tennessee,2020-04-25,35
+Tennessee,2020-05-02,32
+Tennessee,2020-05-09,33
+Tennessee,2020-05-16,53
+Tennessee,2020-05-23,34
+Tennessee,2020-05-30,35
+Tennessee,2020-06-06,53
+Tennessee,2020-06-13,55
+Tennessee,2020-06-20,52
+Tennessee,2020-06-27,60
+Tennessee,2020-07-04,53
+Tennessee,2020-07-11,101
+Tennessee,2020-07-18,100
+Tennessee,2020-07-25,126
+Tennessee,2020-08-01,103
+Tennessee,2020-08-08,148
+Tennessee,2020-08-15,130
+Tennessee,2020-08-22,218
+Tennessee,2020-08-29,162
+Tennessee,2020-09-05,137
+Tennessee,2020-09-12,202
+Tennessee,2020-09-19,152
+Tennessee,2020-09-26,158
+Tennessee,2020-10-03,186
+Tennessee,2020-10-10,198
+Tennessee,2020-10-17,145
+Tennessee,2020-10-24,197
+Tennessee,2020-10-31,253
+Tennessee,2020-11-07,237
+Tennessee,2020-11-14,287
+Tennessee,2020-11-21,334
+Tennessee,2020-11-28,330
+Tennessee,2020-12-05,364
+Tennessee,2020-12-12,495
+Tennessee,2020-12-19,560
+Tennessee,2020-12-26,483
+Tennessee,2021-01-02,527
+Tennessee,2021-01-09,734
+Tennessee,2021-01-16,651
+Tennessee,2021-01-23,464
+Tennessee,2021-01-30,755
+Tennessee,2021-02-06,889
+Tennessee,2021-02-13,439
+Tennessee,2021-02-20,213
+Tennessee,2021-02-27,278
+Tennessee,2021-03-06,150
+Tennessee,2021-03-13,96
+Tennessee,2021-03-20,70
+Tennessee,2021-03-27,107
+Tennessee,2021-04-03,99
+Texas,2020-02-01,0
+Texas,2020-02-08,0
+Texas,2020-02-15,0
+Texas,2020-02-22,0
+Texas,2020-02-29,0
+Texas,2020-03-07,0
+Texas,2020-03-14,0
+Texas,2020-03-21,8
+Texas,2020-03-28,37
+Texas,2020-04-04,108
+Texas,2020-04-11,173
+Texas,2020-04-18,228
+Texas,2020-04-25,206
+Texas,2020-05-02,227
+Texas,2020-05-09,196
+Texas,2020-05-16,277
+Texas,2020-05-23,169
+Texas,2020-05-30,219
+Texas,2020-06-06,183
+Texas,2020-06-13,180
+Texas,2020-06-20,241
+Texas,2020-06-27,273
+Texas,2020-07-04,403
+Texas,2020-07-11,714
+Texas,2020-07-18,988
+Texas,2020-07-25,1176
+Texas,2020-08-01,1921
+Texas,2020-08-08,1487
+Texas,2020-08-15,1215
+Texas,2020-08-22,1290
+Texas,2020-08-29,1068
+Texas,2020-09-05,886
+Texas,2020-09-12,756
+Texas,2020-09-19,694
+Texas,2020-09-26,664
+Texas,2020-10-03,584
+Texas,2020-10-10,637
+Texas,2020-10-17,515
+Texas,2020-10-24,491
+Texas,2020-10-31,574
+Texas,2020-11-07,701
+Texas,2020-11-14,794
+Texas,2020-11-21,966
+Texas,2020-11-28,881
+Texas,2020-12-05,1223
+Texas,2020-12-12,1189
+Texas,2020-12-19,1378
+Texas,2020-12-26,1155
+Texas,2021-01-02,1367
+Texas,2021-01-09,1871
+Texas,2021-01-16,2115
+Texas,2021-01-23,2297
+Texas,2021-01-30,2199
+Texas,2021-02-06,2258
+Texas,2021-02-13,1967
+Texas,2021-02-20,892
+Texas,2021-02-27,1478
+Texas,2021-03-06,1730
+Texas,2021-03-13,1117
+Texas,2021-03-20,932
+Texas,2021-03-27,741
+Texas,2021-04-03,637
+Utah,2020-02-01,0
+Utah,2020-02-08,0
+Utah,2020-02-15,0
+Utah,2020-02-22,0
+Utah,2020-02-29,0
+Utah,2020-03-07,0
+Utah,2020-03-14,0
+Utah,2020-03-21,0
+Utah,2020-03-28,1
+Utah,2020-04-04,7
+Utah,2020-04-11,10
+Utah,2020-04-18,7
+Utah,2020-04-25,16
+Utah,2020-05-02,8
+Utah,2020-05-09,17
+Utah,2020-05-16,12
+Utah,2020-05-23,19
+Utah,2020-05-30,15
+Utah,2020-06-06,9
+Utah,2020-06-13,18
+Utah,2020-06-20,16
+Utah,2020-06-27,12
+Utah,2020-07-04,14
+Utah,2020-07-11,31
+Utah,2020-07-18,31
+Utah,2020-07-25,31
+Utah,2020-08-01,36
+Utah,2020-08-08,25
+Utah,2020-08-15,28
+Utah,2020-08-22,22
+Utah,2020-08-29,22
+Utah,2020-09-05,13
+Utah,2020-09-12,13
+Utah,2020-09-19,7
+Utah,2020-09-26,8
+Utah,2020-10-03,28
+Utah,2020-10-10,34
+Utah,2020-10-17,30
+Utah,2020-10-24,28
+Utah,2020-10-31,36
+Utah,2020-11-07,54
+Utah,2020-11-14,52
+Utah,2020-11-21,77
+Utah,2020-11-28,76
+Utah,2020-12-05,76
+Utah,2020-12-12,99
+Utah,2020-12-19,110
+Utah,2020-12-26,64
+Utah,2021-01-02,82
+Utah,2021-01-09,96
+Utah,2021-01-16,95
+Utah,2021-01-23,97
+Utah,2021-01-30,81
+Utah,2021-02-06,70
+Utah,2021-02-13,57
+Utah,2021-02-20,52
+Utah,2021-02-27,87
+Utah,2021-03-06,46
+Utah,2021-03-13,46
+Utah,2021-03-20,39
+Utah,2021-03-27,41
+Utah,2021-04-03,31
+Vermont,2020-02-01,0
+Vermont,2020-02-08,0
+Vermont,2020-02-15,0
+Vermont,2020-02-22,0
+Vermont,2020-02-29,0
+Vermont,2020-03-07,0
+Vermont,2020-03-14,0
+Vermont,2020-03-21,2
+Vermont,2020-03-28,10
+Vermont,2020-04-04,8
+Vermont,2020-04-11,5
+Vermont,2020-04-18,13
+Vermont,2020-04-25,8
+Vermont,2020-05-02,5
+Vermont,2020-05-09,2
+Vermont,2020-05-16,0
+Vermont,2020-05-23,1
+Vermont,2020-05-30,1
+Vermont,2020-06-06,0
+Vermont,2020-06-13,0
+Vermont,2020-06-20,1
+Vermont,2020-06-27,0
+Vermont,2020-07-04,0
+Vermont,2020-07-11,0
+Vermont,2020-07-18,0
+Vermont,2020-07-25,0
+Vermont,2020-08-01,1
+Vermont,2020-08-08,1
+Vermont,2020-08-15,0
+Vermont,2020-08-22,0
+Vermont,2020-08-29,0
+Vermont,2020-09-05,0
+Vermont,2020-09-12,0
+Vermont,2020-09-19,0
+Vermont,2020-09-26,0
+Vermont,2020-10-03,0
+Vermont,2020-10-10,0
+Vermont,2020-10-17,0
+Vermont,2020-10-24,0
+Vermont,2020-10-31,0
+Vermont,2020-11-07,1
+Vermont,2020-11-14,0
+Vermont,2020-11-21,4
+Vermont,2020-11-28,4
+Vermont,2020-12-05,12
+Vermont,2020-12-12,16
+Vermont,2020-12-19,13
+Vermont,2020-12-26,13
+Vermont,2021-01-02,18
+Vermont,2021-01-09,17
+Vermont,2021-01-16,7
+Vermont,2021-01-23,7
+Vermont,2021-01-30,3
+Vermont,2021-02-06,9
+Vermont,2021-02-13,7
+Vermont,2021-02-20,7
+Vermont,2021-02-27,8
+Vermont,2021-03-06,4
+Vermont,2021-03-13,6
+Vermont,2021-03-20,5
+Vermont,2021-03-27,5
+Vermont,2021-04-03,5
+Virginia,2020-02-01,0
+Virginia,2020-02-08,0
+Virginia,2020-02-15,0
+Virginia,2020-02-22,0
+Virginia,2020-02-29,0
+Virginia,2020-03-07,0
+Virginia,2020-03-14,1
+Virginia,2020-03-21,2
+Virginia,2020-03-28,10
+Virginia,2020-04-04,39
+Virginia,2020-04-11,78
+Virginia,2020-04-18,128
+Virginia,2020-04-25,179
+Virginia,2020-05-02,180
+Virginia,2020-05-09,210
+Virginia,2020-05-16,176
+Virginia,2020-05-23,156
+Virginia,2020-05-30,211
+Virginia,2020-06-06,91
+Virginia,2020-06-13,80
+Virginia,2020-06-20,66
+Virginia,2020-06-27,117
+Virginia,2020-07-04,125
+Virginia,2020-07-11,113
+Virginia,2020-07-18,63
+Virginia,2020-07-25,50
+Virginia,2020-08-01,140
+Virginia,2020-08-08,107
+Virginia,2020-08-15,59
+Virginia,2020-08-22,62
+Virginia,2020-08-29,125
+Virginia,2020-09-05,109
+Virginia,2020-09-12,45
+Virginia,2020-09-19,268
+Virginia,2020-09-26,154
+Virginia,2020-10-03,126
+Virginia,2020-10-10,84
+Virginia,2020-10-17,68
+Virginia,2020-10-24,156
+Virginia,2020-10-31,76
+Virginia,2020-11-07,50
+Virginia,2020-11-14,95
+Virginia,2020-11-21,139
+Virginia,2020-11-28,116
+Virginia,2020-12-05,143
+Virginia,2020-12-12,212
+Virginia,2020-12-19,234
+Virginia,2020-12-26,197
+Virginia,2021-01-02,277
+Virginia,2021-01-09,264
+Virginia,2021-01-16,325
+Virginia,2021-01-23,373
+Virginia,2021-01-30,370
+Virginia,2021-02-06,324
+Virginia,2021-02-13,223
+Virginia,2021-02-20,201
+Virginia,2021-02-27,1185
+Virginia,2021-03-06,1137
+Virginia,2021-03-13,466
+Virginia,2021-03-20,119
+Virginia,2021-03-27,74
+Virginia,2021-04-03,109
+Washington,2020-02-01,0
+Washington,2020-02-08,0
+Washington,2020-02-15,0
+Washington,2020-02-22,0
+Washington,2020-02-29,1
+Washington,2020-03-07,15
+Washington,2020-03-14,23
+Washington,2020-03-21,55
+Washington,2020-03-28,94
+Washington,2020-04-04,210
+Washington,2020-04-11,149
+Washington,2020-04-18,119
+Washington,2020-04-25,113
+Washington,2020-05-02,83
+Washington,2020-05-09,90
+Washington,2020-05-16,72
+Washington,2020-05-23,51
+Washington,2020-05-30,42
+Washington,2020-06-06,42
+Washington,2020-06-13,48
+Washington,2020-06-20,36
+Washington,2020-06-27,45
+Washington,2020-07-04,47
+Washington,2020-07-11,65
+Washington,2020-07-18,48
+Washington,2020-07-25,74
+Washington,2020-08-01,97
+Washington,2020-08-08,92
+Washington,2020-08-15,80
+Washington,2020-08-22,54
+Washington,2020-08-29,54
+Washington,2020-09-05,43
+Washington,2020-09-12,36
+Washington,2020-09-19,48
+Washington,2020-09-26,48
+Washington,2020-10-03,49
+Washington,2020-10-10,45
+Washington,2020-10-17,43
+Washington,2020-10-24,66
+Washington,2020-10-31,68
+Washington,2020-11-07,66
+Washington,2020-11-14,82
+Washington,2020-11-21,102
+Washington,2020-11-28,119
+Washington,2020-12-05,153
+Washington,2020-12-12,74
+Washington,2020-12-19,163
+Washington,2020-12-26,80
+Washington,2021-01-02,277
+Washington,2021-01-09,237
+Washington,2021-01-16,205
+Washington,2021-01-23,211
+Washington,2021-01-30,171
+Washington,2021-02-06,164
+Washington,2021-02-13,226
+Washington,2021-02-20,147
+Washington,2021-02-27,134
+Washington,2021-03-06,85
+Washington,2021-03-13,82
+Washington,2021-03-20,51
+Washington,2021-03-27,44
+Washington,2021-04-03,60
+West Virginia,2020-02-01,0
+West Virginia,2020-02-08,0
+West Virginia,2020-02-15,0
+West Virginia,2020-02-22,0
+West Virginia,2020-02-29,0
+West Virginia,2020-03-07,0
+West Virginia,2020-03-14,0
+West Virginia,2020-03-21,0
+West Virginia,2020-03-28,0
+West Virginia,2020-04-04,2
+West Virginia,2020-04-11,3
+West Virginia,2020-04-18,11
+West Virginia,2020-04-25,16
+West Virginia,2020-05-02,16
+West Virginia,2020-05-09,4
+West Virginia,2020-05-16,12
+West Virginia,2020-05-23,8
+West Virginia,2020-05-30,3
+West Virginia,2020-06-06,9
+West Virginia,2020-06-13,4
+West Virginia,2020-06-20,0
+West Virginia,2020-06-27,5
+West Virginia,2020-07-04,1
+West Virginia,2020-07-11,2
+West Virginia,2020-07-18,4
+West Virginia,2020-07-25,3
+West Virginia,2020-08-01,13
+West Virginia,2020-08-08,15
+West Virginia,2020-08-15,29
+West Virginia,2020-08-22,17
+West Virginia,2020-08-29,38
+West Virginia,2020-09-05,31
+West Virginia,2020-09-12,20
+West Virginia,2020-09-19,45
+West Virginia,2020-09-26,26
+West Virginia,2020-10-03,26
+West Virginia,2020-10-10,24
+West Virginia,2020-10-17,14
+West Virginia,2020-10-24,23
+West Virginia,2020-10-31,35
+West Virginia,2020-11-07,44
+West Virginia,2020-11-14,71
+West Virginia,2020-11-21,84
+West Virginia,2020-11-28,60
+West Virginia,2020-12-05,111
+West Virginia,2020-12-12,137
+West Virginia,2020-12-19,156
+West Virginia,2020-12-26,131
+West Virginia,2021-01-02,120
+West Virginia,2021-01-09,197
+West Virginia,2021-01-16,191
+West Virginia,2021-01-23,111
+West Virginia,2021-01-30,143
+West Virginia,2021-02-06,104
+West Virginia,2021-02-13,82
+West Virginia,2021-02-20,53
+West Virginia,2021-02-27,43
+West Virginia,2021-03-06,26
+West Virginia,2021-03-13,196
+West Virginia,2021-03-20,81
+West Virginia,2021-03-27,31
+West Virginia,2021-04-03,62
+Wisconsin,2020-02-01,0
+Wisconsin,2020-02-08,0
+Wisconsin,2020-02-15,0
+Wisconsin,2020-02-22,0
+Wisconsin,2020-02-29,0
+Wisconsin,2020-03-07,0
+Wisconsin,2020-03-14,0
+Wisconsin,2020-03-21,4
+Wisconsin,2020-03-28,18
+Wisconsin,2020-04-04,80
+Wisconsin,2020-04-11,75
+Wisconsin,2020-04-18,72
+Wisconsin,2020-04-25,50
+Wisconsin,2020-05-02,75
+Wisconsin,2020-05-09,60
+Wisconsin,2020-05-16,54
+Wisconsin,2020-05-23,68
+Wisconsin,2020-05-30,89
+Wisconsin,2020-06-06,45
+Wisconsin,2020-06-13,44
+Wisconsin,2020-06-20,38
+Wisconsin,2020-06-27,35
+Wisconsin,2020-07-04,20
+Wisconsin,2020-07-11,20
+Wisconsin,2020-07-18,32
+Wisconsin,2020-07-25,54
+Wisconsin,2020-08-01,48
+Wisconsin,2020-08-08,62
+Wisconsin,2020-08-15,51
+Wisconsin,2020-08-22,37
+Wisconsin,2020-08-29,47
+Wisconsin,2020-09-05,40
+Wisconsin,2020-09-12,43
+Wisconsin,2020-09-19,35
+Wisconsin,2020-09-26,61
+Wisconsin,2020-10-03,86
+Wisconsin,2020-10-10,125
+Wisconsin,2020-10-17,193
+Wisconsin,2020-10-24,278
+Wisconsin,2020-10-31,300
+Wisconsin,2020-11-07,209
+Wisconsin,2020-11-14,191
+Wisconsin,2020-11-21,404
+Wisconsin,2020-11-28,321
+Wisconsin,2020-12-05,470
+Wisconsin,2020-12-12,390
+Wisconsin,2020-12-19,398
+Wisconsin,2020-12-26,307
+Wisconsin,2021-01-02,227
+Wisconsin,2021-01-09,311
+Wisconsin,2021-01-16,338
+Wisconsin,2021-01-23,279
+Wisconsin,2021-01-30,246
+Wisconsin,2021-02-06,181
+Wisconsin,2021-02-13,133
+Wisconsin,2021-02-20,127
+Wisconsin,2021-02-27,143
+Wisconsin,2021-03-06,89
+Wisconsin,2021-03-13,75
+Wisconsin,2021-03-20,62
+Wisconsin,2021-03-27,34
+Wisconsin,2021-04-03,67
+Wyoming,2020-02-01,0
+Wyoming,2020-02-08,0
+Wyoming,2020-02-15,0
+Wyoming,2020-02-22,0
+Wyoming,2020-02-29,0
+Wyoming,2020-03-07,0
+Wyoming,2020-03-14,0
+Wyoming,2020-03-21,0
+Wyoming,2020-03-28,0
+Wyoming,2020-04-04,0
+Wyoming,2020-04-11,0
+Wyoming,2020-04-18,2
+Wyoming,2020-04-25,5
+Wyoming,2020-05-02,0
+Wyoming,2020-05-09,0
+Wyoming,2020-05-16,0
+Wyoming,2020-05-23,5
+Wyoming,2020-05-30,4
+Wyoming,2020-06-06,1
+Wyoming,2020-06-13,1
+Wyoming,2020-06-20,2
+Wyoming,2020-06-27,0
+Wyoming,2020-07-04,0
+Wyoming,2020-07-11,1
+Wyoming,2020-07-18,3
+Wyoming,2020-07-25,1
+Wyoming,2020-08-01,1
+Wyoming,2020-08-08,2
+Wyoming,2020-08-15,2
+Wyoming,2020-08-22,7
+Wyoming,2020-08-29,0
+Wyoming,2020-09-05,5
+Wyoming,2020-09-12,0
+Wyoming,2020-09-19,7
+Wyoming,2020-09-26,1
+Wyoming,2020-10-03,3
+Wyoming,2020-10-10,1
+Wyoming,2020-10-17,3
+Wyoming,2020-10-24,11
+Wyoming,2020-10-31,19
+Wyoming,2020-11-07,27
+Wyoming,2020-11-14,30
+Wyoming,2020-11-21,32
+Wyoming,2020-11-28,39
+Wyoming,2020-12-05,51
+Wyoming,2020-12-12,55
+Wyoming,2020-12-19,30
+Wyoming,2020-12-26,22
+Wyoming,2021-01-02,65
+Wyoming,2021-01-09,51
+Wyoming,2021-01-16,33
+Wyoming,2021-01-23,49
+Wyoming,2021-01-30,25
+Wyoming,2021-02-06,28
+Wyoming,2021-02-13,23
+Wyoming,2021-02-20,15
+Wyoming,2021-02-27,9
+Wyoming,2021-03-06,11
+Wyoming,2021-03-13,9
+Wyoming,2021-03-20,2
+Wyoming,2021-03-27,2
+Wyoming,2021-04-03,5
