@@ -1,0 +1,50 @@
+{
+  "inputFiles": {
+    "laborMobility.csv": {
+      "entityType": "country",
+      "provenance": "doi:10.7910/DVN/1U75SU"
+    }
+  },
+  "variables": {
+    "DistrictMagnitude": {
+      "name": "Mean District Magnitude House",
+      "description": "Mean District Magnitude House",
+      "nlSentences": [
+        "Measure Mean District magnitude of House Districts."
+      ],
+      "group": "Demographics/Partisanship"
+    },
+    "PR": {
+      "name": "Proportional Representation",
+      "description": "Partisan Lean",
+      "nlSentences": [
+        "Partisan lean of voting districts."
+      ],
+      "group": "Demographics/Partisanship"
+    },
+    "ExternalLaborOpenness": {
+      "name": "External Labor Openness",
+      "description": "Measure of Opennes to Labor Organization",
+      "nlSentences": [
+        "Openness to Labor Organizing."
+      ],
+      "group": "Dempgraphics/Employment"
+    },
+    "GDPPCln": {
+      "name": "GDP Per Capita",
+      "description": "Gross Domestic Product Per Capita",
+      "nlSentences": [
+        "GDP Per Capita."
+      ],
+      "group": "Economics/GDP"
+    }
+  },
+  "sources": {
+    "doi:10.7910/DVN/1U75SU": {
+      "url": "https://dataverse.harvard.edu",
+      "provenances": {
+        "doi:10.7910/DVN/1U75SU": "https://dataverse.harvard.edu"
+      }
+    }
+  }
+}
